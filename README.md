@@ -1,4 +1,4 @@
-## Open Source Repository for Our Paper: DS$^2$-ABSA: Dual-Stream Data Synthesis with Label Refinement for Few-Shot Aspect-Based Sentiment Analysis
+## Repository for Our Paper: DS$^2$-ABSA: Dual-Stream Data Synthesis with Label Refinement for Few-Shot Aspect-Based Sentiment Analysis
 
 **This repository contains all the synthetic data and prompts used in our paper for reference. The code is currently being organized and will be released in the future.**
 
