@@ -17,7 +17,7 @@
     - Each dataset has its `train`, `val`, and `test` splits. 
     - Files like `sample2_all.json` and `sample5_all.json` correspond to 2%-shot and 5%-shot randomly sampled subsets used in the paper.
 
-- **data_synthetic_norm**: GPT-3.5 Turbo synthetic data.
+- **data_synthetic_norm**: GPT-3.5 Turbo synthetic data w/ label normalization
     - Subdirectories for dataset names: `lap`, `res`, `res15`, `res16`.
     - Files with `_key.json` correspond to key-point-driven synthesis, and `_ins.json` corresponds to instance-driven synthesis.
 
