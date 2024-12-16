@@ -1,0 +1,332 @@
+﻿[
+    {
+        "ID": "1486041:1",
+        "sentence": "The owner and staff are all Japanese as well and that adds to the entire ambiance.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "9",
+                "target": "owner",
+                "polarity": "positive"
+            },
+            {
+                "from": "14",
+                "to": "19",
+                "target": "staff",
+                "polarity": "positive"
+            },
+            {
+                "from": "73",
+                "to": "81",
+                "target": "ambiance",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1730447:0",
+        "sentence": "I am reluctant to write because I would not want my jem of a pizza place to become overcrowded.",
+        "aspects": [
+            {
+                "from": "61",
+                "to": "72",
+                "target": "pizza place",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1287538:0",
+        "sentence": "If we were to move from the upper east side, we would genuinely miss this restaurant.",
+        "aspects": [
+            {
+                "from": "74",
+                "to": "84",
+                "target": "restaurant",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "BHD#7:1",
+        "sentence": "this place had ALL the trimmings and i mean all.",
+        "aspects": [
+            {
+                "from": "23",
+                "to": "32",
+                "target": "trimmings",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "NP#3:0",
+        "sentence": "Impressed...",
+        "aspects": []
+    },
+    {
+        "ID": "1404042:4",
+        "sentence": "Someone else recommended the dessert - we also left that.",
+        "aspects": [
+            {
+                "from": "29",
+                "to": "36",
+                "target": "dessert",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "TFS#10:6",
+        "sentence": "The dessert (we had a pear torte) was good - but, once again, the staff was unable to provide appropriate drink suggestions.",
+        "aspects": [
+            {
+                "from": "22",
+                "to": "32",
+                "target": "pear torte",
+                "polarity": "positive"
+            },
+            {
+                "from": "66",
+                "to": "71",
+                "target": "staff",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "TFS#5:0",
+        "sentence": "There is \"Expensive-but-worth-it\" and there is \"Expensive-and-WTF\"?",
+        "aspects": []
+    },
+    {
+        "ID": "FF#4:2",
+        "sentence": "Lexicographers take note: a new and fascinating definition of rudeness is alive and flourishing right here in Brooklyn.",
+        "aspects": []
+    },
+    {
+        "ID": "1138996:6",
+        "sentence": "Make sure you try this place as often as you can.",
+        "aspects": [
+            {
+                "from": "23",
+                "to": "28",
+                "target": "place",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1289424:2",
+        "sentence": "After really enjoying ourselves at the bar we sat down at a table and had dinner.",
+        "aspects": [
+            {
+                "from": "39",
+                "to": "42",
+                "target": "bar",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "496132:4",
+        "sentence": "if you're daring, try the balsamic vinegar over icecream, it's wonderful!",
+        "aspects": [
+            {
+                "from": "26",
+                "to": "56",
+                "target": "balsamic vinegar over icecream",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "DBG#2:10",
+        "sentence": "Less than three minutes passed before I found myself doubled over the toilet.",
+        "aspects": []
+    },
+    {
+        "ID": "TFS#2:0",
+        "sentence": "The Four Seasons restaurant is a great experience.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "27",
+                "target": "The Four Seasons restaurant",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "TM#5:4",
+        "sentence": "The only thing that strikes you is the decor?(not very pleasant).",
+        "aspects": [
+            {
+                "from": "39",
+                "to": "44",
+                "target": "decor",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "CLF#3:14",
+        "sentence": "Once we finally got a table, despite indicating we wanted an alla carte menu we were pushed into a table that was only price fixed!",
+        "aspects": []
+    },
+    {
+        "ID": "957145:1",
+        "sentence": "I have been coming here for years and have nothing but good things to say about the service and the great staff at La Lanterna.",
+        "aspects": [
+            {
+                "from": "84",
+                "to": "91",
+                "target": "service",
+                "polarity": "positive"
+            },
+            {
+                "from": "106",
+                "to": "111",
+                "target": "staff",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "955711:0",
+        "sentence": "This place blew me away...by far my new favorite restaurant on the uppereast side.",
+        "aspects": [
+            {
+                "from": "5",
+                "to": "10",
+                "target": "place",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "P#7:6",
+        "sentence": "Maybe it has improved since then?",
+        "aspects": []
+    },
+    {
+        "ID": "FF#3:4",
+        "sentence": "We ordered our appetizers, I ordered the chicken and my boyfriend the salmon.",
+        "aspects": []
+    },
+    {
+        "ID": "1125006:0",
+        "sentence": "Was there Friday night.",
+        "aspects": []
+    },
+    {
+        "ID": "558423:2",
+        "sentence": "It's great to go for a quick lunch either alone or with a friend.",
+        "aspects": []
+    },
+    {
+        "ID": "Z#3:2",
+        "sentence": "I paid just about $60 for a good meal, though :)",
+        "aspects": [
+            {
+                "from": "33",
+                "to": "37",
+                "target": "meal",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "CLF#3:30",
+        "sentence": "I have never left a restaurant feeling as if i was abused, and wasted my hard earned money.",
+        "aspects": [
+            {
+                "from": "20",
+                "to": "30",
+                "target": "restaurant",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "397331:0",
+        "sentence": "Mizu is the Japenese find in Grammercy.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "4",
+                "target": "Mizu",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "Y#4:2",
+        "sentence": "If you don't like it, I don't know what to tell you.",
+        "aspects": []
+    },
+    {
+        "ID": "1145510:2",
+        "sentence": "But the pizza is way to expensive.",
+        "aspects": [
+            {
+                "from": "8",
+                "to": "13",
+                "target": "pizza",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1451109:4",
+        "sentence": "I am going to the mid town location next.",
+        "aspects": []
+    },
+    {
+        "ID": "611117:0",
+        "sentence": "Best Reuben sandwich ever!",
+        "aspects": [
+            {
+                "from": "5",
+                "to": "20",
+                "target": "Reuben sandwich",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "Y#4:1",
+        "sentence": "Just go to Yamato and order the Red Dragon Roll.",
+        "aspects": [
+            {
+                "from": "11",
+                "to": "17",
+                "target": "Yamato",
+                "polarity": "positive"
+            },
+            {
+                "from": "32",
+                "to": "47",
+                "target": "Red Dragon Roll",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "Z#9:0",
+        "sentence": "short and sweet – seating is great:it's romantic,cozy and private.",
+        "aspects": [
+            {
+                "from": "18",
+                "to": "25",
+                "target": "seating",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "875139:4",
+        "sentence": "We got most of it back at home with us.",
+        "aspects": []
+    }
+]

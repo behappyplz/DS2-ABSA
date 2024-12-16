@@ -1,0 +1,1283 @@
+﻿[
+    {
+        "ID": "1948",
+        "sentence": "You can't even get a satellite card which is why I bought to begin with.",
+        "aspects": [
+            {
+                "from": "21",
+                "to": "35",
+                "target": "satellite card",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "3071",
+        "sentence": "the two of us use it regularly.",
+        "aspects": []
+    },
+    {
+        "ID": "1270",
+        "sentence": "Dell wanted to charge us for everything everytime I called them with a problem.",
+        "aspects": []
+    },
+    {
+        "ID": "2174",
+        "sentence": "Not to mention, the battery life is absolutely amazing.",
+        "aspects": [
+            {
+                "from": "20",
+                "to": "32",
+                "target": "battery life",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1749",
+        "sentence": "Only other thing is that if you are using this for document creation Apple doesnt provide any kind of word processor (such as works for windows), but iwork is cheap compared to office.",
+        "aspects": [
+            {
+                "from": "51",
+                "to": "68",
+                "target": "document creation",
+                "polarity": "neutral"
+            },
+            {
+                "from": "102",
+                "to": "116",
+                "target": "word processor",
+                "polarity": "negative"
+            },
+            {
+                "from": "136",
+                "to": "143",
+                "target": "windows",
+                "polarity": "neutral"
+            },
+            {
+                "from": "150",
+                "to": "155",
+                "target": "iwork",
+                "polarity": "positive"
+            },
+            {
+                "from": "177",
+                "to": "183",
+                "target": "office",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "717",
+        "sentence": "By the way teachers, they offer a discount which helps!",
+        "aspects": []
+    },
+    {
+        "ID": "1862",
+        "sentence": "I have used a couple of others on the job as well.",
+        "aspects": []
+    },
+    {
+        "ID": "1526",
+        "sentence": "No viruses.",
+        "aspects": []
+    },
+    {
+        "ID": "1672",
+        "sentence": "It doesn't bother me though.",
+        "aspects": []
+    },
+    {
+        "ID": "1771",
+        "sentence": "It is easy to navigate and update programs.",
+        "aspects": [
+            {
+                "from": "14",
+                "to": "22",
+                "target": "navigate",
+                "polarity": "positive"
+            },
+            {
+                "from": "27",
+                "to": "42",
+                "target": "update programs",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "419",
+        "sentence": "You might think, I am new in this game, but I am a gadget lover, and have had more than 2 dozens laptops in the past 15 years, and none gets this hot, that fast.",
+        "aspects": []
+    },
+    {
+        "ID": "775",
+        "sentence": "Unless you want to be inconvenienced with a non working power supply which you can't find a replacement for because they made the attachment so small.",
+        "aspects": [
+            {
+                "from": "56",
+                "to": "68",
+                "target": "power supply",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1877",
+        "sentence": "A couple things you should know:",
+        "aspects": []
+    },
+    {
+        "ID": "632",
+        "sentence": "-Managed to send complaint email.",
+        "aspects": []
+    },
+    {
+        "ID": "2323",
+        "sentence": "I like how the Mac OS is so simple and easy to use.",
+        "aspects": [
+            {
+                "from": "15",
+                "to": "21",
+                "target": "Mac OS",
+                "polarity": "positive"
+            },
+            {
+                "from": "47",
+                "to": "50",
+                "target": "use",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "348",
+        "sentence": "i love the size of the computer since i play games on it.",
+        "aspects": [
+            {
+                "from": "11",
+                "to": "15",
+                "target": "size",
+                "polarity": "positive"
+            },
+            {
+                "from": "45",
+                "to": "50",
+                "target": "games",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "1485",
+        "sentence": "This purchase opened me to the world of Macbooks, and I am impressed with the intuition of the design, the beauty of the product, and the excellent technological advances associated with it.",
+        "aspects": [
+            {
+                "from": "95",
+                "to": "101",
+                "target": "design",
+                "polarity": "positive"
+            },
+            {
+                "from": "107",
+                "to": "113",
+                "target": "beauty",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "820",
+        "sentence": "I am stuck with a laptop that I cannot do very much with.",
+        "aspects": []
+    },
+    {
+        "ID": "768",
+        "sentence": "This was the 3rd day and part still had not been shipped.",
+        "aspects": [
+            {
+                "from": "49",
+                "to": "56",
+                "target": "shipped",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "605",
+        "sentence": "it's just a great toy to have around.",
+        "aspects": []
+    },
+    {
+        "ID": "2041",
+        "sentence": "I thought all my problems would finally be solved being that my old computer wouldn't go onto our wireless network and I wouldn't have the same problems because it was updated.",
+        "aspects": []
+    },
+    {
+        "ID": "354",
+        "sentence": "The system constantly overheats, the battery life is too short, the case is coming apart, and my core applications that I use every day in my work as a graphic artist run poorly.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "10",
+                "target": "system",
+                "polarity": "negative"
+            },
+            {
+                "from": "37",
+                "to": "49",
+                "target": "battery life",
+                "polarity": "negative"
+            },
+            {
+                "from": "68",
+                "to": "72",
+                "target": "case",
+                "polarity": "negative"
+            },
+            {
+                "from": "97",
+                "to": "114",
+                "target": "core applications",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "628",
+        "sentence": "*4 weeks after giving the computer for repair*-Annoyed at MacHouse Amsterdam, decided to send complaint email to Apple.",
+        "aspects": []
+    },
+    {
+        "ID": "1367",
+        "sentence": "Before we got this laptop, had a compaq pasaro for 5 years with no problems.",
+        "aspects": []
+    },
+    {
+        "ID": "1835",
+        "sentence": "I will NEVER buy (Refurbished) again, I don't cae how cheap it is.",
+        "aspects": []
+    },
+    {
+        "ID": "175",
+        "sentence": "So, you can imagine how unhappy I am with this item.",
+        "aspects": []
+    },
+    {
+        "ID": "551",
+        "sentence": "What's also interesting is this survey changed my ratings the first time I submitted it in case it doesn't keep what I put here are my aratings",
+        "aspects": []
+    },
+    {
+        "ID": "144",
+        "sentence": "I thought the price was great for the specs.",
+        "aspects": [
+            {
+                "from": "14",
+                "to": "19",
+                "target": "price",
+                "polarity": "positive"
+            },
+            {
+                "from": "38",
+                "to": "43",
+                "target": "specs",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2435",
+        "sentence": "I was disappointed when I realized that the keyboard doesn't light up on this model.",
+        "aspects": [
+            {
+                "from": "44",
+                "to": "52",
+                "target": "keyboard",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1586",
+        "sentence": "Its still going.",
+        "aspects": []
+    },
+    {
+        "ID": "1228",
+        "sentence": "The computer is currently in West Verginia doe to the method of shipping choosen by Toshiba.",
+        "aspects": [
+            {
+                "from": "64",
+                "to": "72",
+                "target": "shipping",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1175",
+        "sentence": "The laptop is relatively simple to use, though I bought  Macs for Dummies,  which is well worth $2",
+        "aspects": [
+            {
+                "from": "35",
+                "to": "38",
+                "target": "use",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2442",
+        "sentence": "Overall, still a very nice machine.",
+        "aspects": []
+    },
+    {
+        "ID": "1031",
+        "sentence": "NO more Lenovo for me.",
+        "aspects": []
+    },
+    {
+        "ID": "2240",
+        "sentence": "Received the product promptly and without any issues.",
+        "aspects": []
+    },
+    {
+        "ID": "1574",
+        "sentence": "I love the operating system and the preloaded software.",
+        "aspects": [
+            {
+                "from": "11",
+                "to": "27",
+                "target": "operating system",
+                "polarity": "positive"
+            },
+            {
+                "from": "36",
+                "to": "54",
+                "target": "preloaded software",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1167",
+        "sentence": "They don't seem to be susceptible to viruses, which is one less big thing to worry about when it comes to computers.",
+        "aspects": []
+    },
+    {
+        "ID": "890",
+        "sentence": "Your cursor will end up all over the freaking place,,,it's not uncommon for me to accidentally delete words, sentences, paragraphs because of this mousepad.",
+        "aspects": [
+            {
+                "from": "5",
+                "to": "11",
+                "target": "cursor",
+                "polarity": "negative"
+            },
+            {
+                "from": "147",
+                "to": "155",
+                "target": "mousepad",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "2907",
+        "sentence": "No problems, no lock ups, no disappointments.",
+        "aspects": []
+    },
+    {
+        "ID": "2099",
+        "sentence": "I have now had it for 1.5 months and love it.",
+        "aspects": []
+    },
+    {
+        "ID": "1383",
+        "sentence": "The right speaker did not work.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "17",
+                "target": "right speaker",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "2436",
+        "sentence": "It also does not have bluetooth.",
+        "aspects": [
+            {
+                "from": "22",
+                "to": "31",
+                "target": "bluetooth",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "2300",
+        "sentence": "for being so small it is amazing that it is as fast as it is.",
+        "aspects": []
+    },
+    {
+        "ID": "711",
+        "sentence": "Yes, I thought the expese was a little much, but I now realize you get what you pay for.",
+        "aspects": [
+            {
+                "from": "19",
+                "to": "25",
+                "target": "expese",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "2413",
+        "sentence": "The Mac takes about the same amount of starting-up time as the average PC, but keeps itself cleaned up and ready to use.",
+        "aspects": [
+            {
+                "from": "39",
+                "to": "55",
+                "target": "starting-up time",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1453",
+        "sentence": "luckly i had a student task force able to help, or else it would have crashed within the first year.",
+        "aspects": []
+    },
+    {
+        "ID": "1887",
+        "sentence": "Returned laptop for repair a 2nd time and it came back with obvious physical damage (keyboard bulging and speaker grill pressed in), buttons not working and USB ports inoperative.",
+        "aspects": [
+            {
+                "from": "85",
+                "to": "93",
+                "target": "keyboard",
+                "polarity": "negative"
+            },
+            {
+                "from": "106",
+                "to": "119",
+                "target": "speaker grill",
+                "polarity": "negative"
+            },
+            {
+                "from": "133",
+                "to": "140",
+                "target": "buttons",
+                "polarity": "negative"
+            },
+            {
+                "from": "157",
+                "to": "166",
+                "target": "USB ports",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "2580",
+        "sentence": "But let me tell you, the mac book pro is so professional.",
+        "aspects": []
+    },
+    {
+        "ID": "846",
+        "sentence": "I'm having the laptop returned unrepaired since paying $176 every 3  months just isn't worth it (that's about how long the port seems to  last).",
+        "aspects": [
+            {
+                "from": "123",
+                "to": "127",
+                "target": "port",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1369",
+        "sentence": "This is a review of windows vista system.",
+        "aspects": [
+            {
+                "from": "20",
+                "to": "40",
+                "target": "windows vista system",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "2807",
+        "sentence": "the headphone and mic jack are in front of touch-pad making the touch-pad hard to use when using headphones/mic, not to mention the laptop was designed for right handed person.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "13",
+                "target": "headphone",
+                "polarity": "negative"
+            },
+            {
+                "from": "18",
+                "to": "26",
+                "target": "mic jack",
+                "polarity": "negative"
+            },
+            {
+                "from": "43",
+                "to": "52",
+                "target": "touch-pad",
+                "polarity": "neutral"
+            },
+            {
+                "from": "64",
+                "to": "73",
+                "target": "touch-pad",
+                "polarity": "negative"
+            },
+            {
+                "from": "97",
+                "to": "107",
+                "target": "headphones",
+                "polarity": "negative"
+            },
+            {
+                "from": "108",
+                "to": "111",
+                "target": "mic",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1700",
+        "sentence": "HELP, HELP, OTHER THAN THAT GETS A GREAT LITTLE WONDER.",
+        "aspects": []
+    },
+    {
+        "ID": "1710",
+        "sentence": "The Macbook is also made better, my computer has never got a virus, and the laptop runs just as fast as the first day I bought it.",
+        "aspects": [
+            {
+                "from": "83",
+                "to": "87",
+                "target": "runs",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1429",
+        "sentence": "Everything is falling apart internally and externally.",
+        "aspects": []
+    },
+    {
+        "ID": "3036",
+        "sentence": "The pricing is very competitive.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "11",
+                "target": "pricing",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1360",
+        "sentence": "In fact, he said, about 10% of their products fail.",
+        "aspects": []
+    },
+    {
+        "ID": "2205",
+        "sentence": "I previously owned an HP desktop and a Dell laptop.",
+        "aspects": []
+    },
+    {
+        "ID": "2668",
+        "sentence": "The only thing i can say is that the touch pad doesnt work like it should all the time.",
+        "aspects": [
+            {
+                "from": "37",
+                "to": "46",
+                "target": "touch pad",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "735",
+        "sentence": "I bought this last week, and the very next day had to return it because it over heated and the touch-mouse stopped responding.",
+        "aspects": [
+            {
+                "from": "95",
+                "to": "106",
+                "target": "touch-mouse",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1388",
+        "sentence": "Don't waste their money, save it and but a mac.",
+        "aspects": []
+    },
+    {
+        "ID": "2358",
+        "sentence": "I have never had to shut down the computer unexpectedly and the computer has never froze on me.",
+        "aspects": []
+    },
+    {
+        "ID": "579",
+        "sentence": "I would buy one of these for every person in my office if I could.",
+        "aspects": []
+    },
+    {
+        "ID": "1515",
+        "sentence": "I am loyal to Apple.",
+        "aspects": []
+    },
+    {
+        "ID": "1339",
+        "sentence": "You just lose a customer.",
+        "aspects": []
+    },
+    {
+        "ID": "2991",
+        "sentence": "Battery life needs more life.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "12",
+                "target": "Battery life",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1322",
+        "sentence": "So what am I supposed to do?  The LG service center cannot provide me the \"service\" when it is called the \"service center\".",
+        "aspects": [
+            {
+                "from": "34",
+                "to": "51",
+                "target": "LG service center",
+                "polarity": "negative"
+            },
+            {
+                "from": "75",
+                "to": "82",
+                "target": "service",
+                "polarity": "negative"
+            },
+            {
+                "from": "107",
+                "to": "121",
+                "target": "service center",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1565",
+        "sentence": "The resolution is even higher then any other laptop on the market.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "14",
+                "target": "resolution",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1705",
+        "sentence": "I have been a PC user since middle school, but in my mid twenties I decided to convert to the dark side, or should I say the brighter side of life.",
+        "aspects": []
+    },
+    {
+        "ID": "1964",
+        "sentence": "This computer was so challenging to carry and handle.",
+        "aspects": [
+            {
+                "from": "36",
+                "to": "41",
+                "target": "carry",
+                "polarity": "negative"
+            },
+            {
+                "from": "46",
+                "to": "52",
+                "target": "handle",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1316",
+        "sentence": "The tech guy then said the service center does not do 1-to-1 exchange and I have to direct my concern to the \"sales\" team, which is the retail shop which I bought my netbook from.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "12",
+                "target": "tech guy",
+                "polarity": "neutral"
+            },
+            {
+                "from": "27",
+                "to": "41",
+                "target": "service center",
+                "polarity": "negative"
+            },
+            {
+                "from": "109",
+                "to": "121",
+                "target": "\"sales\" team",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "9",
+        "sentence": "The Apple team also assists you very nicely when choosing which computer is right for you :)",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "14",
+                "target": "Apple team",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2823",
+        "sentence": "This is a great little computer for the price.",
+        "aspects": [
+            {
+                "from": "40",
+                "to": "45",
+                "target": "price",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1812",
+        "sentence": "The difference is it's a whole lot of fun using the laptop now, still learning the Apple navigation, but is fun and comes with a lot of cool apps.",
+        "aspects": [
+            {
+                "from": "83",
+                "to": "99",
+                "target": "Apple navigation",
+                "polarity": "neutral"
+            },
+            {
+                "from": "141",
+                "to": "145",
+                "target": "apps",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2332",
+        "sentence": "It is a REAL touchpad, not the toy I saw in other brands.",
+        "aspects": [
+            {
+                "from": "13",
+                "to": "21",
+                "target": "touchpad",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "635",
+        "sentence": "-Apple offers to send replacement and after 10 days I send them the old computer.",
+        "aspects": []
+    },
+    {
+        "ID": "1007",
+        "sentence": "I own a Hewlett Packard laptop and I've had man problems with it since I bought in in Feb, 201",
+        "aspects": []
+    },
+    {
+        "ID": "358",
+        "sentence": "Small screen somewhat limiting but great for travel.",
+        "aspects": [
+            {
+                "from": "6",
+                "to": "12",
+                "target": "screen",
+                "polarity": "conflict"
+            }
+        ]
+    },
+    {
+        "ID": "530",
+        "sentence": "Which is what I did, check out my ACER 5517!",
+        "aspects": []
+    },
+    {
+        "ID": "2652",
+        "sentence": "I like it so much, I bought another just for my wife.",
+        "aspects": []
+    },
+    {
+        "ID": "1911",
+        "sentence": "However the frozen screens kept happening.",
+        "aspects": [
+            {
+                "from": "19",
+                "to": "26",
+                "target": "screens",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1621",
+        "sentence": "This is my second MACBOOK PRO and it's better than ever.",
+        "aspects": []
+    },
+    {
+        "ID": "2055",
+        "sentence": "That's how frustrating it was.",
+        "aspects": []
+    },
+    {
+        "ID": "2440",
+        "sentence": "I was looking too closely at the other performance specs and while comparing, I took it for granted that these features were standard.",
+        "aspects": [
+            {
+                "from": "39",
+                "to": "56",
+                "target": "performance specs",
+                "polarity": "neutral"
+            },
+            {
+                "from": "111",
+                "to": "119",
+                "target": "features",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "1562",
+        "sentence": "The difference in the Apple keyboard from a PC's keyboard took a bit of tim to get used to, but overall it's worth it!",
+        "aspects": [
+            {
+                "from": "22",
+                "to": "36",
+                "target": "Apple keyboard",
+                "polarity": "neutral"
+            },
+            {
+                "from": "44",
+                "to": "57",
+                "target": "PC's keyboard",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "1404",
+        "sentence": "My computer was one of the best in the school compared to my fellow classmates.",
+        "aspects": []
+    },
+    {
+        "ID": "2737",
+        "sentence": "For the use it was purchased for it is a good Laptop.",
+        "aspects": []
+    },
+    {
+        "ID": "1903",
+        "sentence": "I took the computer into Best Buy where I purchased it and they kept it over night to study it.",
+        "aspects": []
+    },
+    {
+        "ID": "1010",
+        "sentence": "I just recently had to ship my laptop back to HP for repair.",
+        "aspects": []
+    },
+    {
+        "ID": "806",
+        "sentence": "I had this computer for one month and had to send it in for repair.",
+        "aspects": []
+    },
+    {
+        "ID": "270",
+        "sentence": "The Apple MC371LL/A 2.4Ghz 15.4-inch MacBook Pro Notebook is a horrible waste of money.",
+        "aspects": []
+    },
+    {
+        "ID": "2046",
+        "sentence": "This computer was awful!",
+        "aspects": []
+    },
+    {
+        "ID": "1177",
+        "sentence": "Take your time and go through the tutorials patiently.",
+        "aspects": [
+            {
+                "from": "34",
+                "to": "43",
+                "target": "tutorials",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "2443",
+        "sentence": "Boots up fast and runs great!",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "8",
+                "target": "Boots up",
+                "polarity": "positive"
+            },
+            {
+                "from": "18",
+                "to": "22",
+                "target": "runs",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "206",
+        "sentence": "The i5 blows my desktop out of the water when it comes to rendering videos.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "6",
+                "target": "i5",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1239",
+        "sentence": "It is the worst laptop ever",
+        "aspects": []
+    },
+    {
+        "ID": "493",
+        "sentence": "It weighed like seven pounds or something like that.",
+        "aspects": [
+            {
+                "from": "3",
+                "to": "10",
+                "target": "weighed",
+                "polarity": "neutral"
+            },
+            {
+                "from": "16",
+                "to": "28",
+                "target": "seven pounds",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "2123",
+        "sentence": "It all just makes sense.",
+        "aspects": []
+    },
+    {
+        "ID": "729",
+        "sentence": "It has spent more time in repair shops than i can possibly recount here.",
+        "aspects": []
+    },
+    {
+        "ID": "2107",
+        "sentence": "I wasn't really as concerned about portability (it's a very large laptop) but it's not hard to move around or take on a trip which was a pleasant surprise.",
+        "aspects": [
+            {
+                "from": "35",
+                "to": "46",
+                "target": "portability",
+                "polarity": "conflict"
+            }
+        ]
+    },
+    {
+        "ID": "1537",
+        "sentence": "This is a great machine!",
+        "aspects": []
+    },
+    {
+        "ID": "18",
+        "sentence": "While most people say that PCs hold functionality and value and Macs are just pretty to look at, I think there's something to be said about the simplicity of Macs.",
+        "aspects": [
+            {
+                "from": "36",
+                "to": "49",
+                "target": "functionality",
+                "polarity": "positive"
+            },
+            {
+                "from": "54",
+                "to": "59",
+                "target": "value",
+                "polarity": "positive"
+            },
+            {
+                "from": "88",
+                "to": "92",
+                "target": "look",
+                "polarity": "positive"
+            },
+            {
+                "from": "144",
+                "to": "154",
+                "target": "simplicity",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1916",
+        "sentence": "However I dealt with this problem for over a year and it was more of a hastle then I have EVER had with anything.",
+        "aspects": []
+    },
+    {
+        "ID": "1540",
+        "sentence": "It even has a great webcam, and Skype works very well.",
+        "aspects": [
+            {
+                "from": "20",
+                "to": "26",
+                "target": "webcam",
+                "polarity": "positive"
+            },
+            {
+                "from": "32",
+                "to": "37",
+                "target": "Skype",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2511",
+        "sentence": "Bigger HD, better graphics card, and a bid HD.",
+        "aspects": [
+            {
+                "from": "7",
+                "to": "9",
+                "target": "HD",
+                "polarity": "positive"
+            },
+            {
+                "from": "18",
+                "to": "31",
+                "target": "graphics card",
+                "polarity": "positive"
+            },
+            {
+                "from": "43",
+                "to": "45",
+                "target": "HD",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "987",
+        "sentence": "This thing is a lemon.",
+        "aspects": []
+    },
+    {
+        "ID": "666",
+        "sentence": "I have loved this since i took it out of the box.",
+        "aspects": []
+    },
+    {
+        "ID": "1735",
+        "sentence": "I feel that enough people have Macs these days and that companies need to start making things more compatable than they used to be.",
+        "aspects": []
+    },
+    {
+        "ID": "1174",
+        "sentence": ") I also purchased  Applecare  for $300, which is a three year extended warranty, since I ve never seen any laptop that lasted more than two.",
+        "aspects": [
+            {
+                "from": "20",
+                "to": "29",
+                "target": "Applecare",
+                "polarity": "neutral"
+            },
+            {
+                "from": "63",
+                "to": "80",
+                "target": "extended warranty",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "2089",
+        "sentence": "Bottom line, I doubt you'd be overly disappointed if you invest in this machine.",
+        "aspects": []
+    },
+    {
+        "ID": "2317",
+        "sentence": "Images can be multi-selected and viewed swiftly or in slideshow mode.",
+        "aspects": []
+    },
+    {
+        "ID": "1418",
+        "sentence": "Toshiba is aware of the issue but unless the extended warrenty is bought Toshiba will do nothing about it.",
+        "aspects": [
+            {
+                "from": "45",
+                "to": "62",
+                "target": "extended warrenty",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "2615",
+        "sentence": "THIS IS MY SECOND MAC BOOK PRO.",
+        "aspects": []
+    },
+    {
+        "ID": "2318",
+        "sentence": "Wonderful zooming.",
+        "aspects": [
+            {
+                "from": "10",
+                "to": "17",
+                "target": "zooming",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "3079",
+        "sentence": "I took off a star because the machine has a lot of junk software on it.",
+        "aspects": [
+            {
+                "from": "56",
+                "to": "64",
+                "target": "software",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1734",
+        "sentence": "It drives me crazy when I want to download a game or something of that nature and I can't play it because its not compatable with the software.",
+        "aspects": [
+            {
+                "from": "134",
+                "to": "142",
+                "target": "software",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "2227",
+        "sentence": "I also got the added bonus of a 30\" HD Monitor, which really helps to extend my screen and keep my eyes fresh!",
+        "aspects": [
+            {
+                "from": "32",
+                "to": "46",
+                "target": "30\" HD Monitor",
+                "polarity": "positive"
+            },
+            {
+                "from": "80",
+                "to": "86",
+                "target": "screen",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "1588",
+        "sentence": "This is something i would deffinately reccomend to someone.",
+        "aspects": []
+    },
+    {
+        "ID": "2422",
+        "sentence": "I need graphic power to run my Adobe Creative apps efficiently.",
+        "aspects": [
+            {
+                "from": "7",
+                "to": "20",
+                "target": "graphic power",
+                "polarity": "neutral"
+            },
+            {
+                "from": "31",
+                "to": "50",
+                "target": "Adobe Creative apps",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "1582",
+        "sentence": "Crisp screen, great battery life, and plenty of storage.",
+        "aspects": [
+            {
+                "from": "6",
+                "to": "12",
+                "target": "screen",
+                "polarity": "positive"
+            },
+            {
+                "from": "20",
+                "to": "32",
+                "target": "battery life",
+                "polarity": "positive"
+            },
+            {
+                "from": "48",
+                "to": "55",
+                "target": "storage",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "967",
+        "sentence": "of course my warranty runs out next month.",
+        "aspects": [
+            {
+                "from": "13",
+                "to": "21",
+                "target": "warranty",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "703",
+        "sentence": "I am a wife, mom and a school teacher and a college student.",
+        "aspects": []
+    },
+    {
+        "ID": "2701",
+        "sentence": "Can listen to my music and watch my videos with ease and with a great display.",
+        "aspects": [
+            {
+                "from": "70",
+                "to": "77",
+                "target": "display",
+                "polarity": "positive"
+            }
+        ]
+    }
+]

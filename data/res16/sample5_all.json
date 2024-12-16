@@ -1,0 +1,918 @@
+﻿[
+    {
+        "ID": "1289424:1",
+        "sentence": "We were walking around the village and went into this place just for some drinks.",
+        "aspects": []
+    },
+    {
+        "ID": "1457607:0",
+        "sentence": "The place is a lot of fun.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "9",
+                "target": "place",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "Y#2:2",
+        "sentence": "not only is the food",
+        "aspects": [
+            {
+                "from": "16",
+                "to": "20",
+                "target": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1723402:1",
+        "sentence": "it's the only place you can get yummy authentic japanese comfort food.",
+        "aspects": [
+            {
+                "from": "48",
+                "to": "69",
+                "target": "japanese comfort food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1280166:4",
+        "sentence": "Traditional French decour was pleasant though the hall was rather noisy - the restaurant was full and we had to raise our voices to be able to maintain a conversation.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "25",
+                "target": "Traditional French decour",
+                "polarity": "positive"
+            },
+            {
+                "from": "50",
+                "to": "54",
+                "target": "hall",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "759781:2",
+        "sentence": "Most of the servers are very attentive, friendly and quite attractive.",
+        "aspects": [
+            {
+                "from": "12",
+                "to": "19",
+                "target": "servers",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1573534:0",
+        "sentence": "First of all Dal Bukhara Rocks.",
+        "aspects": [
+            {
+                "from": "13",
+                "to": "24",
+                "target": "Dal Bukhara",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "TVU#6:3",
+        "sentence": "The martinis are amazing and very fairly priced.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "12",
+                "target": "martinis",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1506491:6",
+        "sentence": "Ciao Bella",
+        "aspects": []
+    },
+    {
+        "ID": "ADLT#10:7",
+        "sentence": "so delicious!!!!!!",
+        "aspects": []
+    },
+    {
+        "ID": "1726473:4",
+        "sentence": "The food arrived 20 minutes after I called, cold and soggy.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "8",
+                "target": "food",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1225162:4",
+        "sentence": "The bar is very well stocked with interesting beers and well priced wines.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "7",
+                "target": "bar",
+                "polarity": "positive"
+            },
+            {
+                "from": "46",
+                "to": "51",
+                "target": "beers",
+                "polarity": "positive"
+            },
+            {
+                "from": "68",
+                "to": "73",
+                "target": "wines",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1543345:2",
+        "sentence": "Get the pepperoni - YUM - and a family style salad.",
+        "aspects": [
+            {
+                "from": "8",
+                "to": "17",
+                "target": "pepperoni",
+                "polarity": "positive"
+            },
+            {
+                "from": "32",
+                "to": "50",
+                "target": "family style salad",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "FF#4:8",
+        "sentence": "Overall the food quality was pretty good, though I hear the salmon is much better when it hasn't sat cooling in front of the guest.",
+        "aspects": [
+            {
+                "from": "12",
+                "to": "16",
+                "target": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1253117:2",
+        "sentence": "Two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu.",
+        "aspects": [
+            {
+                "from": "22",
+                "to": "41",
+                "target": "appetizer selection",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "NP#3:6",
+        "sentence": "Prices are fair across the board for both food and bev.",
+        "aspects": [
+            {
+                "from": "42",
+                "to": "46",
+                "target": "food",
+                "polarity": "positive"
+            },
+            {
+                "from": "51",
+                "to": "54",
+                "target": "bev",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1286916:4",
+        "sentence": "You cannot go wrong at the Red Eye Grill.",
+        "aspects": [
+            {
+                "from": "27",
+                "to": "40",
+                "target": "Red Eye Grill",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1353599:2",
+        "sentence": "My friend got the mushroom pizza which tasted better.",
+        "aspects": [
+            {
+                "from": "18",
+                "to": "32",
+                "target": "mushroom pizza",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1662726:2",
+        "sentence": "When asked about how a certain dish was prepared in comparison to a similar at other thai restaurants, he replied this is not Mcdonald's, every place makes things differently",
+        "aspects": []
+    },
+    {
+        "ID": "DBG#7:17",
+        "sentence": "If you ware looking for Korean fusion, I suggest you try some of the places in the East Village.",
+        "aspects": []
+    },
+    {
+        "ID": "1189674:4",
+        "sentence": "Great wine selection, Gigondas is worth the price, and the house champagne is a great value.",
+        "aspects": [
+            {
+                "from": "6",
+                "to": "20",
+                "target": "wine selection",
+                "polarity": "positive"
+            },
+            {
+                "from": "22",
+                "to": "30",
+                "target": "Gigondas",
+                "polarity": "positive"
+            },
+            {
+                "from": "59",
+                "to": "74",
+                "target": "house champagne",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1335656:4",
+        "sentence": "Although we were looking for regular lettuce and some walnuts the salads we got were great.",
+        "aspects": [
+            {
+                "from": "66",
+                "to": "72",
+                "target": "salads",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "682391:2",
+        "sentence": "The service is good and the resturant is clean.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "11",
+                "target": "service",
+                "polarity": "positive"
+            },
+            {
+                "from": "28",
+                "to": "37",
+                "target": "resturant",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "FF#3:4",
+        "sentence": "We ordered our appetizers, I ordered the chicken and my boyfriend the salmon.",
+        "aspects": []
+    },
+    {
+        "ID": "1451109:1",
+        "sentence": "It is a lot of fun with live entertainment and all kinds of Disney type special effects.",
+        "aspects": []
+    },
+    {
+        "ID": "TM#5:3",
+        "sentence": "Helpful service and average price per dish $10.",
+        "aspects": [
+            {
+                "from": "8",
+                "to": "15",
+                "target": "service",
+                "polarity": "positive"
+            },
+            {
+                "from": "38",
+                "to": "42",
+                "target": "dish",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "TR#3:4",
+        "sentence": "Highly recommended!",
+        "aspects": []
+    },
+    {
+        "ID": "TM#4:4",
+        "sentence": "Still we keep going back :)",
+        "aspects": []
+    },
+    {
+        "ID": "1119578:2",
+        "sentence": "Yes, they use fancy ingredients, but even fancy ingredients don't make for good pizza unless someone knows how to get the crust right.",
+        "aspects": [
+            {
+                "from": "20",
+                "to": "31",
+                "target": "ingredients",
+                "polarity": "positive"
+            },
+            {
+                "from": "80",
+                "to": "85",
+                "target": "pizza",
+                "polarity": "negative"
+            },
+            {
+                "from": "122",
+                "to": "127",
+                "target": "crust",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1086478:2",
+        "sentence": "The service varys from day to day- sometimes they're very nice, and sometimes not.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "11",
+                "target": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "498657:4",
+        "sentence": "The wait here is long for dim sum, but if you don't like sharing tables or if the typical raucous dim sum atmosphere is not your gig, this is a sleek (for Chinatown) alternative.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "8",
+                "target": "wait",
+                "polarity": "negative"
+            },
+            {
+                "from": "106",
+                "to": "116",
+                "target": "atmosphere",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1632445:1",
+        "sentence": "The menu is limited but almost all of the dishes are excellent.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "8",
+                "target": "menu",
+                "polarity": "negative"
+            },
+            {
+                "from": "42",
+                "to": "48",
+                "target": "dishes",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1413697:0",
+        "sentence": "I come from a family of pizzeria owners, and I'm almost ashamed to say that the pizza in Fornino's blows my families receipies away.",
+        "aspects": [
+            {
+                "from": "80",
+                "to": "85",
+                "target": "pizza",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "397331:0",
+        "sentence": "Mizu is the Japenese find in Grammercy.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "4",
+                "target": "Mizu",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "476473:3",
+        "sentence": "Open late (well as late as I ever got there and I'm a night person)",
+        "aspects": []
+    },
+    {
+        "ID": "494850:0",
+        "sentence": "This restaurant used to be our regular Thursday night dinner location.",
+        "aspects": []
+    },
+    {
+        "ID": "1053543:0",
+        "sentence": "We ate outside at Haru's Sake bar because Haru's restaurant next door was overflowing.",
+        "aspects": []
+    },
+    {
+        "ID": "EVPK#9:0",
+        "sentence": "cirspy crust margherita pizza",
+        "aspects": [
+            {
+                "from": "13",
+                "to": "29",
+                "target": "margherita pizza",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1064477:2",
+        "sentence": "The sushi seemed pretty fresh and was adequately proportioned.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "9",
+                "target": "sushi",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1471273:3",
+        "sentence": "Prices too high for this cramped and unappealing resturant.",
+        "aspects": [
+            {
+                "from": "49",
+                "to": "58",
+                "target": "resturant",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1398844:4",
+        "sentence": "Service is not what one would expect from a joint in this price category.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "7",
+                "target": "Service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "378848:3",
+        "sentence": "The blond wood decor is very soothing, the premium sake is excellent and the service is great.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "20",
+                "target": "blond wood decor",
+                "polarity": "positive"
+            },
+            {
+                "from": "43",
+                "to": "55",
+                "target": "premium sake",
+                "polarity": "positive"
+            },
+            {
+                "from": "77",
+                "to": "84",
+                "target": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1707741:1",
+        "sentence": "The buffet had a nice selection.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "10",
+                "target": "buffet",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1230993:0",
+        "sentence": "I had a grat time at Jekyll and Hyde!",
+        "aspects": [
+            {
+                "from": "21",
+                "to": "36",
+                "target": "Jekyll and Hyde",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1241906:3",
+        "sentence": "But too far east!",
+        "aspects": []
+    },
+    {
+        "ID": "RL#7:2",
+        "sentence": "i love their chicken pasta cant remember the name but is sooo good",
+        "aspects": [
+            {
+                "from": "13",
+                "to": "26",
+                "target": "chicken pasta",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "470488:6",
+        "sentence": "It is obvious that no one in the restaurant has any idea about or experience with Japanese cuisine.",
+        "aspects": [
+            {
+                "from": "82",
+                "to": "98",
+                "target": "Japanese cuisine",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "TFS#5:29",
+        "sentence": "You would think they would make up for it with service, sadly, no.",
+        "aspects": [
+            {
+                "from": "47",
+                "to": "54",
+                "target": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "535248:2",
+        "sentence": "It is expensive but well worth the money.",
+        "aspects": []
+    },
+    {
+        "ID": "464215:3",
+        "sentence": "A little crowded but they move that line really fast!",
+        "aspects": []
+    },
+    {
+        "ID": "P#9:2",
+        "sentence": "The drinks are great, especially when made by Raymond.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "10",
+                "target": "drinks",
+                "polarity": "positive"
+            },
+            {
+                "from": "46",
+                "to": "53",
+                "target": "Raymond",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "475298:0",
+        "sentence": "Good, fast service.",
+        "aspects": [
+            {
+                "from": "11",
+                "to": "18",
+                "target": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1730127:4",
+        "sentence": "Good for dates or with friends.",
+        "aspects": []
+    },
+    {
+        "ID": "DBG#7:14",
+        "sentence": "As to my comment about the food, no apology or acknowledgment was made.",
+        "aspects": []
+    },
+    {
+        "ID": "1004293:4",
+        "sentence": "After all that, they complained to me about the small tip.",
+        "aspects": []
+    },
+    {
+        "ID": "1126814:4",
+        "sentence": "Have been dozens of times and never failed to enjoy the experience.",
+        "aspects": []
+    },
+    {
+        "ID": "CLF#6:0",
+        "sentence": "Terrible would be a compliment!",
+        "aspects": []
+    },
+    {
+        "ID": "FF#6:5",
+        "sentence": "The hostess was rude and I got a distinct feeling that they did not want to serve us.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "11",
+                "target": "hostess",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1028246:2",
+        "sentence": "You can't go wrong here.",
+        "aspects": []
+    },
+    {
+        "ID": "1413697:3",
+        "sentence": "I highly recommend to anyone to give this place a try.",
+        "aspects": [
+            {
+                "from": "42",
+                "to": "47",
+                "target": "place",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "657129:4",
+        "sentence": "Ask for Usha, the nicest bartender in manhattan.",
+        "aspects": [
+            {
+                "from": "8",
+                "to": "12",
+                "target": "Usha",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "BG#5:6",
+        "sentence": "I don't appreciate places or people that try to drive up the bill without the patron's knowledge so that was a huge turnoff (more than the price).",
+        "aspects": []
+    },
+    {
+        "ID": "TFS#10:7",
+        "sentence": "When we inquired about ports - the waitress listed off several but did not know taste variations or cost.",
+        "aspects": [
+            {
+                "from": "35",
+                "to": "43",
+                "target": "waitress",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "535171:2",
+        "sentence": "A cool bar with great food, and tons of excellent beer.",
+        "aspects": [
+            {
+                "from": "7",
+                "to": "10",
+                "target": "bar",
+                "polarity": "positive"
+            },
+            {
+                "from": "22",
+                "to": "26",
+                "target": "food",
+                "polarity": "positive"
+            },
+            {
+                "from": "50",
+                "to": "54",
+                "target": "beer",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "535248:1",
+        "sentence": "The shrimp scampi was excellent and the antipasti were plentiful.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "17",
+                "target": "shrimp scampi",
+                "polarity": "positive"
+            },
+            {
+                "from": "40",
+                "to": "49",
+                "target": "antipasti",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "535171:4",
+        "sentence": "Loved it!",
+        "aspects": []
+    },
+    {
+        "ID": "530517:0",
+        "sentence": "Lucky Strike is a great casual place to just grab a bite to eat.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "12",
+                "target": "Lucky Strike",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1486041:0",
+        "sentence": "The atmosphere is nothing special, but it feels like a Sushi establishment in Tokyo.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "14",
+                "target": "atmosphere",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "RL#9:0",
+        "sentence": "awesome",
+        "aspects": []
+    },
+    {
+        "ID": "1398844:0",
+        "sentence": "First of all, this place is *not* romantic, as claimed by Citysearch's editorial review.",
+        "aspects": [
+            {
+                "from": "19",
+                "to": "24",
+                "target": "place",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "608500:3",
+        "sentence": "We ordered the chicken casserole, but what we got were a few small pieces of chicken, all dark meat and on the bone.",
+        "aspects": [
+            {
+                "from": "15",
+                "to": "32",
+                "target": "chicken casserole",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1300636:2",
+        "sentence": "I have to highly recommend the lobster roll - not to much mayo; you can tell it was a fresh lobster.",
+        "aspects": [
+            {
+                "from": "31",
+                "to": "43",
+                "target": "lobster roll",
+                "polarity": "positive"
+            },
+            {
+                "from": "92",
+                "to": "99",
+                "target": "lobster",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1710746:5",
+        "sentence": "Also they were $15 each!",
+        "aspects": []
+    },
+    {
+        "ID": "630914:4",
+        "sentence": "Wouldn't recomend it for dinner!",
+        "aspects": []
+    },
+    {
+        "ID": "475512:3",
+        "sentence": "If you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you'll love it here.",
+        "aspects": [
+            {
+                "from": "17",
+                "to": "22",
+                "target": "music",
+                "polarity": "negative"
+            },
+            {
+                "from": "105",
+                "to": "119",
+                "target": "bottle minimun",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1577714:2",
+        "sentence": "The fish was not fresh and the rice tasted old and stale.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "8",
+                "target": "fish",
+                "polarity": "negative"
+            },
+            {
+                "from": "31",
+                "to": "35",
+                "target": "rice",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1123262:2",
+        "sentence": "The combination of super-fresh ingredients in the dishes are unusual but really delicious.",
+        "aspects": [
+            {
+                "from": "31",
+                "to": "42",
+                "target": "ingredients",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1506491:1",
+        "sentence": "If you go, try the marinara/arrabiatta sauce, the mozzarella en Carozza is mmmmmmmm..... everything is just delicious.",
+        "aspects": [
+            {
+                "from": "19",
+                "to": "44",
+                "target": "marinara/arrabiatta sauce",
+                "polarity": "positive"
+            },
+            {
+                "from": "50",
+                "to": "71",
+                "target": "mozzarella en Carozza",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1367358:1",
+        "sentence": "The food is authentic Italian - delicious!",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "8",
+                "target": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1145510:0",
+        "sentence": "This is a fun restaurant to go to.",
+        "aspects": [
+            {
+                "from": "14",
+                "to": "24",
+                "target": "restaurant",
+                "polarity": "positive"
+            }
+        ]
+    }
+]

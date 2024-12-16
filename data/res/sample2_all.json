@@ -1,0 +1,677 @@
+﻿[
+    {
+        "ID": "1701",
+        "sentence": "Winnie and her staff are the best crew you can find serving you.",
+        "aspects": [
+            {
+                "from": "15",
+                "to": "20",
+                "target": "staff",
+                "polarity": "positive"
+            },
+            {
+                "from": "34",
+                "to": "38",
+                "target": "crew",
+                "polarity": "positive"
+            },
+            {
+                "from": "52",
+                "to": "59",
+                "target": "serving",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "267",
+        "sentence": "The bar is very well stocked with interesting beers and well priced wines.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "7",
+                "target": "bar",
+                "polarity": "positive"
+            },
+            {
+                "from": "46",
+                "to": "51",
+                "target": "beers",
+                "polarity": "positive"
+            },
+            {
+                "from": "61",
+                "to": "67",
+                "target": "priced",
+                "polarity": "positive"
+            },
+            {
+                "from": "68",
+                "to": "73",
+                "target": "wines",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2890",
+        "sentence": "Sapphire is the only Indian restaurant I go to when I'm in NYC.",
+        "aspects": []
+    },
+    {
+        "ID": "903",
+        "sentence": "When I arrived at Orsay I was thrown back, in a veyr good sense.",
+        "aspects": []
+    },
+    {
+        "ID": "328",
+        "sentence": "Went on a 3 day oyster binge, with Fish bringing up the closing, and I am so glad this was the place it O trip ended, because it was so great!",
+        "aspects": [
+            {
+                "from": "16",
+                "to": "22",
+                "target": "oyster",
+                "polarity": "neutral"
+            },
+            {
+                "from": "35",
+                "to": "39",
+                "target": "Fish",
+                "polarity": "neutral"
+            },
+            {
+                "from": "95",
+                "to": "100",
+                "target": "place",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "115",
+        "sentence": "Bravissimo !!",
+        "aspects": []
+    },
+    {
+        "ID": "1434",
+        "sentence": "If your favorite Chinese food is General Tao chicken, then this is NOT your place.",
+        "aspects": [
+            {
+                "from": "17",
+                "to": "29",
+                "target": "Chinese food",
+                "polarity": "neutral"
+            },
+            {
+                "from": "33",
+                "to": "52",
+                "target": "General Tao chicken",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "3410",
+        "sentence": "You must try the shrimp appetizers.",
+        "aspects": [
+            {
+                "from": "17",
+                "to": "34",
+                "target": "shrimp appetizers",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2944",
+        "sentence": "We've been to Grocery three times and not once has an item on the menu disappointed.",
+        "aspects": [
+            {
+                "from": "66",
+                "to": "70",
+                "target": "menu",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1925",
+        "sentence": "Very excited to hear that short-term Chef Jason Narone has moved on, he truly was a low point of their Sterling track record.",
+        "aspects": [
+            {
+                "from": "37",
+                "to": "41",
+                "target": "Chef",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "2796",
+        "sentence": "love the food.",
+        "aspects": [
+            {
+                "from": "9",
+                "to": "13",
+                "target": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "285",
+        "sentence": "The portions are now very small, the sauces are overly-ambitious usually inedible while the service is still good, the restaurant, due to its popularity, seems frantic.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "12",
+                "target": "portions",
+                "polarity": "negative"
+            },
+            {
+                "from": "37",
+                "to": "43",
+                "target": "sauces",
+                "polarity": "negative"
+            },
+            {
+                "from": "92",
+                "to": "99",
+                "target": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "3170",
+        "sentence": "Good spreads, great beverage selections and bagels really tasty.",
+        "aspects": [
+            {
+                "from": "5",
+                "to": "12",
+                "target": "spreads",
+                "polarity": "positive"
+            },
+            {
+                "from": "20",
+                "to": "39",
+                "target": "beverage selections",
+                "polarity": "positive"
+            },
+            {
+                "from": "44",
+                "to": "50",
+                "target": "bagels",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2254",
+        "sentence": "Good crowd, good outdoor seating, with a hip japanese vibe.",
+        "aspects": [
+            {
+                "from": "17",
+                "to": "32",
+                "target": "outdoor seating",
+                "polarity": "positive"
+            },
+            {
+                "from": "54",
+                "to": "58",
+                "target": "vibe",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "212",
+        "sentence": "Obv caviar is top of the line but the rest of the menu is so diverse it gives you a chance to taste so manydifferent varietys.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "10",
+                "target": "Obv caviar",
+                "polarity": "positive"
+            },
+            {
+                "from": "50",
+                "to": "54",
+                "target": "menu",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "974",
+        "sentence": "I've been to this restaurant more than a dozen times and when I'm craving for Pho, Lemon grass chicken or Beef Cube on rice, this is the place to go.",
+        "aspects": [
+            {
+                "from": "78",
+                "to": "81",
+                "target": "Pho",
+                "polarity": "positive"
+            },
+            {
+                "from": "83",
+                "to": "102",
+                "target": "Lemon grass chicken",
+                "polarity": "positive"
+            },
+            {
+                "from": "106",
+                "to": "123",
+                "target": "Beef Cube on rice",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2702",
+        "sentence": "Guacamole+shrimp appetizer was really great, we both had the filet, very good, didn't much like the frites that came with, but the filet was so good, neither of us cared.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "26",
+                "target": "Guacamole+shrimp appetizer",
+                "polarity": "positive"
+            },
+            {
+                "from": "61",
+                "to": "66",
+                "target": "filet",
+                "polarity": "positive"
+            },
+            {
+                "from": "100",
+                "to": "106",
+                "target": "frites",
+                "polarity": "negative"
+            },
+            {
+                "from": "131",
+                "to": "136",
+                "target": "filet",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2041",
+        "sentence": "The best thing I tasted were the lambchops.",
+        "aspects": [
+            {
+                "from": "33",
+                "to": "42",
+                "target": "lambchops",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "110",
+        "sentence": "If anyones has doubt of not knowing enough about wines,please check their wine list.",
+        "aspects": [
+            {
+                "from": "49",
+                "to": "54",
+                "target": "wines",
+                "polarity": "neutral"
+            },
+            {
+                "from": "74",
+                "to": "83",
+                "target": "wine list",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "226",
+        "sentence": "I recommend to anyone who wants to dress up and impress the lady.",
+        "aspects": []
+    },
+    {
+        "ID": "1113",
+        "sentence": "I have been in many restaurants all over the city and Roth's Steakhouse has quickly become one of my favorites.",
+        "aspects": []
+    },
+    {
+        "ID": "2709",
+        "sentence": "The desserts are more appealing then stuffy overpriced French restaurants.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "12",
+                "target": "desserts",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "667",
+        "sentence": "Prices are in line.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "6",
+                "target": "Prices",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "2822",
+        "sentence": "Other guests enjoyed pizza, santa fe chopped salad and fish and chips.",
+        "aspects": [
+            {
+                "from": "21",
+                "to": "26",
+                "target": "pizza",
+                "polarity": "positive"
+            },
+            {
+                "from": "28",
+                "to": "50",
+                "target": "santa fe chopped salad",
+                "polarity": "positive"
+            },
+            {
+                "from": "55",
+                "to": "69",
+                "target": "fish and chips",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2125",
+        "sentence": "Largest and freshest pieces of sushi, and delicious!",
+        "aspects": [
+            {
+                "from": "21",
+                "to": "36",
+                "target": "pieces of sushi",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2600",
+        "sentence": "I highly recommend to anyone to give this place a try.",
+        "aspects": []
+    },
+    {
+        "ID": "3543",
+        "sentence": "Food is average, and I would say even the chain restaurant Baluchi's tastes better.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "4",
+                "target": "Food",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "2177",
+        "sentence": "so garantuan that you can't fit them in a toaster.",
+        "aspects": []
+    },
+    {
+        "ID": "1530",
+        "sentence": "I've overheard comments from him to his employees that should not have been delivered in the dining area and I've been sitting there while he lectured another customer.",
+        "aspects": [
+            {
+                "from": "40",
+                "to": "49",
+                "target": "employees",
+                "polarity": "negative"
+            },
+            {
+                "from": "93",
+                "to": "104",
+                "target": "dining area",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "3242",
+        "sentence": "It was huge, delicious, fresh, and will be the reason we return.",
+        "aspects": []
+    },
+    {
+        "ID": "2701",
+        "sentence": "Service here was great, food was fantastic.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "7",
+                "target": "Service",
+                "polarity": "positive"
+            },
+            {
+                "from": "24",
+                "to": "28",
+                "target": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1948",
+        "sentence": "We've been following chef Lyle's food around New York for 15 years and while remaining classic, his innovations with bistro fare have made us return and return.",
+        "aspects": [
+            {
+                "from": "21",
+                "to": "25",
+                "target": "chef",
+                "polarity": "positive"
+            },
+            {
+                "from": "33",
+                "to": "37",
+                "target": "food",
+                "polarity": "positive"
+            },
+            {
+                "from": "117",
+                "to": "128",
+                "target": "bistro fare",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "307",
+        "sentence": "This restaurant is a wonderful place to go many times and it is reasonably priced.",
+        "aspects": [
+            {
+                "from": "75",
+                "to": "81",
+                "target": "priced",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "551",
+        "sentence": "We were worried we would have trouble getting in, but somehow managed to have a short wait.",
+        "aspects": [
+            {
+                "from": "86",
+                "to": "90",
+                "target": "wait",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "453",
+        "sentence": "I've been living in the Columbia University area for about 10 years with 3 kids - now in their teens.",
+        "aspects": []
+    },
+    {
+        "ID": "3652",
+        "sentence": "Avoid at all costs.",
+        "aspects": []
+    },
+    {
+        "ID": "2212",
+        "sentence": "If you want good authentic Thai this place is not the place to go.",
+        "aspects": [
+            {
+                "from": "27",
+                "to": "31",
+                "target": "Thai",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "2233",
+        "sentence": "Definitely not worth the price!",
+        "aspects": [
+            {
+                "from": "25",
+                "to": "30",
+                "target": "price",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "3184",
+        "sentence": "The Thai food is good.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "13",
+                "target": "Thai food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "481",
+        "sentence": "There is a real gallery of stars that have visited.",
+        "aspects": []
+    },
+    {
+        "ID": "1430",
+        "sentence": "If you like the food and the value you get from some of Chinatown restaurants, this is not the place for you.",
+        "aspects": [
+            {
+                "from": "16",
+                "to": "20",
+                "target": "food",
+                "polarity": "neutral"
+            },
+            {
+                "from": "29",
+                "to": "34",
+                "target": "value",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "386",
+        "sentence": "Everything I had was good, and I'm a eater.",
+        "aspects": []
+    },
+    {
+        "ID": "2507",
+        "sentence": "The food is great and authentic.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "8",
+                "target": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2016",
+        "sentence": "We began with the cheese fondue (the artisanal blend) and added apples and kielbasa to dip.",
+        "aspects": [
+            {
+                "from": "18",
+                "to": "31",
+                "target": "cheese fondue",
+                "polarity": "neutral"
+            },
+            {
+                "from": "64",
+                "to": "70",
+                "target": "apples",
+                "polarity": "neutral"
+            },
+            {
+                "from": "75",
+                "to": "83",
+                "target": "kielbasa",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "2711",
+        "sentence": "In fact, you can't miss it.",
+        "aspects": []
+    },
+    {
+        "ID": "1893",
+        "sentence": "The fries are yummy.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "9",
+                "target": "fries",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "3064",
+        "sentence": "Romantic if you want it to be (brightly lit).",
+        "aspects": []
+    },
+    {
+        "ID": "628",
+        "sentence": "The server was really cool and served us our food and drinks with a smile.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "10",
+                "target": "server",
+                "polarity": "positive"
+            },
+            {
+                "from": "31",
+                "to": "37",
+                "target": "served",
+                "polarity": "positive"
+            },
+            {
+                "from": "45",
+                "to": "49",
+                "target": "food",
+                "polarity": "neutral"
+            },
+            {
+                "from": "54",
+                "to": "60",
+                "target": "drinks",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "3045",
+        "sentence": "All pretty good.",
+        "aspects": []
+    }
+]

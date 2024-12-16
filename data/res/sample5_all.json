@@ -1,0 +1,1546 @@
+﻿[
+    {
+        "ID": "120",
+        "sentence": "Old school meets New world.",
+        "aspects": []
+    },
+    {
+        "ID": "2730",
+        "sentence": "This is the Jackel and Hideof the restaurants on the UES.",
+        "aspects": []
+    },
+    {
+        "ID": "2800",
+        "sentence": "highly recommended.",
+        "aspects": []
+    },
+    {
+        "ID": "2980",
+        "sentence": "I'm not picky - but it was actually gross.",
+        "aspects": []
+    },
+    {
+        "ID": "3354",
+        "sentence": "It was good, but was not what I thought it would be.",
+        "aspects": []
+    },
+    {
+        "ID": "3102",
+        "sentence": "the drinks are amazing and half off till 8pm.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "10",
+                "target": "drinks",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1327",
+        "sentence": "The menu seemed to have a wide variety of dishes for seafood lovers and interesting ways of preparing them.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "8",
+                "target": "menu",
+                "polarity": "positive"
+            },
+            {
+                "from": "31",
+                "to": "48",
+                "target": "variety of dishes",
+                "polarity": "positive"
+            },
+            {
+                "from": "53",
+                "to": "60",
+                "target": "seafood",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "3704",
+        "sentence": "I will not be coming here at 3am again.",
+        "aspects": []
+    },
+    {
+        "ID": "1528",
+        "sentence": "I'm happy to have Nosh in the neighborhood and the food is very comforting.",
+        "aspects": [
+            {
+                "from": "51",
+                "to": "55",
+                "target": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2142",
+        "sentence": "Try everything for that matter, it is all good.",
+        "aspects": []
+    },
+    {
+        "ID": "97",
+        "sentence": "The wine list is also really nice.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "13",
+                "target": "wine list",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2700",
+        "sentence": "I went here with a friend on a whim, we went someplace else first and couldn't get a table.",
+        "aspects": [
+            {
+                "from": "85",
+                "to": "90",
+                "target": "table",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "3321",
+        "sentence": "The only problem is that the manager is a complete incompetent.",
+        "aspects": [
+            {
+                "from": "29",
+                "to": "36",
+                "target": "manager",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "783",
+        "sentence": "I've always been seated propmtly.",
+        "aspects": []
+    },
+    {
+        "ID": "43",
+        "sentence": "ALWAYS full with tourists (especially because of it's close proximity to Rockefeller Center).",
+        "aspects": []
+    },
+    {
+        "ID": "981",
+        "sentence": "Nha Trang, while being notorious for utter lack of comfort and decor, horribly slow wait staff and horribly quick meals, is one of the best vietnamese restaurants i've ever been to. the pho is delicious and comes with very fresh vegtables.",
+        "aspects": [
+            {
+                "from": "51",
+                "to": "58",
+                "target": "comfort",
+                "polarity": "negative"
+            },
+            {
+                "from": "63",
+                "to": "68",
+                "target": "decor",
+                "polarity": "negative"
+            },
+            {
+                "from": "84",
+                "to": "94",
+                "target": "wait staff",
+                "polarity": "negative"
+            },
+            {
+                "from": "114",
+                "to": "119",
+                "target": "meals",
+                "polarity": "negative"
+            },
+            {
+                "from": "186",
+                "to": "189",
+                "target": "pho",
+                "polarity": "positive"
+            },
+            {
+                "from": "229",
+                "to": "238",
+                "target": "vegtables",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1940",
+        "sentence": "Super friendly and knowledgable staff, fabulous bistro fare and a wonderful jazz brunch with great live jazz (the chilaquiles were awesome!",
+        "aspects": [
+            {
+                "from": "32",
+                "to": "37",
+                "target": "staff",
+                "polarity": "positive"
+            },
+            {
+                "from": "48",
+                "to": "59",
+                "target": "bistro fare",
+                "polarity": "positive"
+            },
+            {
+                "from": "76",
+                "to": "87",
+                "target": "jazz brunch",
+                "polarity": "positive"
+            },
+            {
+                "from": "99",
+                "to": "108",
+                "target": "live jazz",
+                "polarity": "positive"
+            },
+            {
+                "from": "114",
+                "to": "125",
+                "target": "chilaquiles",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "3671",
+        "sentence": "The only thing I could get attention from was one of at least two cats running around that kept batting at my table.",
+        "aspects": []
+    },
+    {
+        "ID": "555",
+        "sentence": "Make sure you try this place as often as you can.",
+        "aspects": []
+    },
+    {
+        "ID": "370",
+        "sentence": "kalbi and nebbiolo do work together.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "5",
+                "target": "kalbi",
+                "polarity": "neutral"
+            },
+            {
+                "from": "10",
+                "to": "18",
+                "target": "nebbiolo",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "1673",
+        "sentence": "Decent wine selection too.",
+        "aspects": [
+            {
+                "from": "7",
+                "to": "21",
+                "target": "wine selection",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2781",
+        "sentence": "We all ate pasta entre'es, which were great.",
+        "aspects": [
+            {
+                "from": "11",
+                "to": "25",
+                "target": "pasta entre'es",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "3087",
+        "sentence": "While most people can attest to spending over $50 on drinks in New York bars and hardly feeling a thing, the drinks here are plentiful and unique.",
+        "aspects": [
+            {
+                "from": "53",
+                "to": "59",
+                "target": "drinks",
+                "polarity": "negative"
+            },
+            {
+                "from": "72",
+                "to": "76",
+                "target": "bars",
+                "polarity": "negative"
+            },
+            {
+                "from": "109",
+                "to": "115",
+                "target": "drinks",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "3689",
+        "sentence": "We could only get through an appetizer and cheese fondue.",
+        "aspects": [
+            {
+                "from": "29",
+                "to": "38",
+                "target": "appetizer",
+                "polarity": "neutral"
+            },
+            {
+                "from": "43",
+                "to": "56",
+                "target": "cheese fondue",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "3030",
+        "sentence": "(I've ordered from the 2nd ave.",
+        "aspects": []
+    },
+    {
+        "ID": "1967",
+        "sentence": "I have lived in NY for many years and have dined at many restaraunts.",
+        "aspects": []
+    },
+    {
+        "ID": "865",
+        "sentence": "You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert.",
+        "aspects": [
+            {
+                "from": "18",
+                "to": "34",
+                "target": "crabmeat lasagna",
+                "polarity": "positive"
+            },
+            {
+                "from": "70",
+                "to": "93",
+                "target": "chocolate bread pudding",
+                "polarity": "positive"
+            },
+            {
+                "from": "98",
+                "to": "105",
+                "target": "dessert",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "228",
+        "sentence": "We had champagne and caviar and felt like princesses!",
+        "aspects": [
+            {
+                "from": "7",
+                "to": "16",
+                "target": "champagne",
+                "polarity": "positive"
+            },
+            {
+                "from": "21",
+                "to": "27",
+                "target": "caviar",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2377",
+        "sentence": "The food was just awful, ATROCIOUS actually.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "8",
+                "target": "food",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "2909",
+        "sentence": "skip dessert.",
+        "aspects": [
+            {
+                "from": "5",
+                "to": "12",
+                "target": "dessert",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1870",
+        "sentence": "Fast service.",
+        "aspects": [
+            {
+                "from": "5",
+                "to": "12",
+                "target": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "691",
+        "sentence": "The food was pretty good, but a little flavorless and the portions very small, including dessert.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "8",
+                "target": "food",
+                "polarity": "conflict"
+            },
+            {
+                "from": "58",
+                "to": "66",
+                "target": "portions",
+                "polarity": "negative"
+            },
+            {
+                "from": "89",
+                "to": "96",
+                "target": "dessert",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "672",
+        "sentence": "Dip the ingredients in with your chopsticks, swirl them around, and eat.",
+        "aspects": [
+            {
+                "from": "8",
+                "to": "19",
+                "target": "ingredients",
+                "polarity": "neutral"
+            },
+            {
+                "from": "33",
+                "to": "43",
+                "target": "chopsticks",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "2208",
+        "sentence": "Needless to say, I'm never going back and you should be wary too.",
+        "aspects": []
+    },
+    {
+        "ID": "2536",
+        "sentence": "despite the untasteful previous review...",
+        "aspects": []
+    },
+    {
+        "ID": "2207",
+        "sentence": "And, atlhough tables opened up next to us and we ASKED for a slightly larger space, they left us awkardly seated.",
+        "aspects": [
+            {
+                "from": "14",
+                "to": "20",
+                "target": "tables",
+                "polarity": "neutral"
+            },
+            {
+                "from": "77",
+                "to": "82",
+                "target": "space",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "255",
+        "sentence": "My chow fun and chow see was really bland and oily.",
+        "aspects": [
+            {
+                "from": "3",
+                "to": "24",
+                "target": "chow fun and chow see",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "656",
+        "sentence": "Thius is a must for anyone who loves Shabu-Shabu.",
+        "aspects": [
+            {
+                "from": "37",
+                "to": "48",
+                "target": "Shabu-Shabu",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "296",
+        "sentence": "They did not have mayonnaise, forgot our toast, left out ingredients (ie cheese in an omelet), below hot temperatures and the bacon was so over cooked it crumbled on the plate when you touched it.",
+        "aspects": [
+            {
+                "from": "18",
+                "to": "28",
+                "target": "mayonnaise",
+                "polarity": "negative"
+            },
+            {
+                "from": "41",
+                "to": "46",
+                "target": "toast",
+                "polarity": "negative"
+            },
+            {
+                "from": "57",
+                "to": "68",
+                "target": "ingredients",
+                "polarity": "negative"
+            },
+            {
+                "from": "73",
+                "to": "79",
+                "target": "cheese",
+                "polarity": "neutral"
+            },
+            {
+                "from": "86",
+                "to": "92",
+                "target": "omelet",
+                "polarity": "neutral"
+            },
+            {
+                "from": "126",
+                "to": "131",
+                "target": "bacon",
+                "polarity": "negative"
+            },
+            {
+                "from": "170",
+                "to": "175",
+                "target": "plate",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "3086",
+        "sentence": "While the place is not a hotspot hangout, the drinks are unique and pack a lot of bang for the buck.",
+        "aspects": [
+            {
+                "from": "10",
+                "to": "15",
+                "target": "place",
+                "polarity": "negative"
+            },
+            {
+                "from": "46",
+                "to": "52",
+                "target": "drinks",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2486",
+        "sentence": "The noise level was unbearable, conversation impossible.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "15",
+                "target": "noise level",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "702",
+        "sentence": "We love the food, drinks, and atmosphere!",
+        "aspects": [
+            {
+                "from": "12",
+                "to": "16",
+                "target": "food",
+                "polarity": "positive"
+            },
+            {
+                "from": "18",
+                "to": "24",
+                "target": "drinks",
+                "polarity": "positive"
+            },
+            {
+                "from": "30",
+                "to": "40",
+                "target": "atmosphere",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "3518",
+        "sentence": "I recommend their Pad See Ew, Pork Chops or Tofu plates.",
+        "aspects": [
+            {
+                "from": "18",
+                "to": "28",
+                "target": "Pad See Ew",
+                "polarity": "positive"
+            },
+            {
+                "from": "30",
+                "to": "40",
+                "target": "Pork Chops",
+                "polarity": "positive"
+            },
+            {
+                "from": "44",
+                "to": "55",
+                "target": "Tofu plates",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2708",
+        "sentence": "The food is fresh, delicious, and reasonably priced.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "8",
+                "target": "food",
+                "polarity": "positive"
+            },
+            {
+                "from": "45",
+                "to": "51",
+                "target": "priced",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "282",
+        "sentence": "One thing I liked about this place is that I never felt rushed or pressured to give up my table ot incoming guests.",
+        "aspects": [
+            {
+                "from": "90",
+                "to": "95",
+                "target": "table",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "2164",
+        "sentence": "We were not dissappointed in the least bit by this little gem.",
+        "aspects": []
+    },
+    {
+        "ID": "2010",
+        "sentence": "We had a girls' night dinner here for restaurant week.",
+        "aspects": [
+            {
+                "from": "22",
+                "to": "28",
+                "target": "dinner",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "3198",
+        "sentence": "We had Pam's special fried fish and it was amazing.",
+        "aspects": [
+            {
+                "from": "7",
+                "to": "31",
+                "target": "Pam's special fried fish",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2648",
+        "sentence": "The food is tasty and portion sizes are appropriate.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "8",
+                "target": "food",
+                "polarity": "positive"
+            },
+            {
+                "from": "22",
+                "to": "35",
+                "target": "portion sizes",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "601",
+        "sentence": "We went to eat at the Jekyll and Hyde restaurant on Friday night and really enjoyed the fun atmosphere and good food.",
+        "aspects": [
+            {
+                "from": "92",
+                "to": "102",
+                "target": "atmosphere",
+                "polarity": "positive"
+            },
+            {
+                "from": "112",
+                "to": "116",
+                "target": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "3038",
+        "sentence": "Staffs are not that friendly, but the taste covers all.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "6",
+                "target": "Staffs",
+                "polarity": "negative"
+            },
+            {
+                "from": "38",
+                "to": "43",
+                "target": "taste",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "54",
+        "sentence": "Heartland Brewery is a great way to start or finish your day.",
+        "aspects": []
+    },
+    {
+        "ID": "751",
+        "sentence": "I'm going back.",
+        "aspects": []
+    },
+    {
+        "ID": "3699",
+        "sentence": "Lunch came with pickels and slaw, no extra charge.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "5",
+                "target": "Lunch",
+                "polarity": "positive"
+            },
+            {
+                "from": "16",
+                "to": "32",
+                "target": "pickels and slaw",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "442",
+        "sentence": "If that's a problem, go to McDonald's and destroy your insides.",
+        "aspects": []
+    },
+    {
+        "ID": "2148",
+        "sentence": "They all know you.",
+        "aspects": []
+    },
+    {
+        "ID": "990",
+        "sentence": "Its not the same if you have to sit inside.",
+        "aspects": []
+    },
+    {
+        "ID": "673",
+        "sentence": "At the end you're left with a mild broth with noodles that you can slurp out of a cup.",
+        "aspects": [
+            {
+                "from": "35",
+                "to": "53",
+                "target": "broth with noodles",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2303",
+        "sentence": "All conveniently delivered right to the door.",
+        "aspects": [
+            {
+                "from": "17",
+                "to": "26",
+                "target": "delivered",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "386",
+        "sentence": "Everything I had was good, and I'm a eater.",
+        "aspects": []
+    },
+    {
+        "ID": "758",
+        "sentence": "You will pay a lot for the decore, but the food is no better or worse than a lot of other Chinese and Asian fusion places in NY.",
+        "aspects": [
+            {
+                "from": "27",
+                "to": "33",
+                "target": "decore",
+                "polarity": "negative"
+            },
+            {
+                "from": "43",
+                "to": "47",
+                "target": "food",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "2349",
+        "sentence": "I ate clams oreganta and spectacular salad with perfectly marinated cucumbers and tomatoes with lots of shrimp and basil.",
+        "aspects": [
+            {
+                "from": "6",
+                "to": "20",
+                "target": "clams oreganta",
+                "polarity": "positive"
+            },
+            {
+                "from": "37",
+                "to": "120",
+                "target": "salad with perfectly marinated cucumbers and tomatoes with lots of shrimp and basil",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "187",
+        "sentence": "This restaurant used to be pretty decent.",
+        "aspects": []
+    },
+    {
+        "ID": "2233",
+        "sentence": "Definitely not worth the price!",
+        "aspects": [
+            {
+                "from": "25",
+                "to": "30",
+                "target": "price",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1610",
+        "sentence": "The pizza was great.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "9",
+                "target": "pizza",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "842",
+        "sentence": "Service was decent, but not as smooth as I would expect from a place with these prices and reputation.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "7",
+                "target": "Service",
+                "polarity": "conflict"
+            },
+            {
+                "from": "80",
+                "to": "86",
+                "target": "prices",
+                "polarity": "negative"
+            },
+            {
+                "from": "91",
+                "to": "101",
+                "target": "reputation",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "412",
+        "sentence": "The miso soup lacked flavor and the fish was unfortunately not as well prepared as in the past.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "13",
+                "target": "miso soup",
+                "polarity": "negative"
+            },
+            {
+                "from": "21",
+                "to": "27",
+                "target": "flavor",
+                "polarity": "negative"
+            },
+            {
+                "from": "36",
+                "to": "40",
+                "target": "fish",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "2697",
+        "sentence": "The quail was fantastic and unique and the pastas were full of flavor.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "9",
+                "target": "quail",
+                "polarity": "positive"
+            },
+            {
+                "from": "43",
+                "to": "49",
+                "target": "pastas",
+                "polarity": "positive"
+            },
+            {
+                "from": "63",
+                "to": "69",
+                "target": "flavor",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "719",
+        "sentence": "Next time, we wouldn't dare ordering anything else other than some simple Asian appetizers and drinks.",
+        "aspects": [
+            {
+                "from": "74",
+                "to": "90",
+                "target": "Asian appetizers",
+                "polarity": "positive"
+            },
+            {
+                "from": "95",
+                "to": "101",
+                "target": "drinks",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2407",
+        "sentence": "It's usually packed for good reason, esp.",
+        "aspects": []
+    },
+    {
+        "ID": "2379",
+        "sentence": "But I just would like to say I read the reviews people left and thats why I checked it out.",
+        "aspects": []
+    },
+    {
+        "ID": "3116",
+        "sentence": "The waitstaff were attentive, polite and helpful - an impressive feat in such close quarters.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "13",
+                "target": "waitstaff",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2634",
+        "sentence": "And all of that won't break your bank!",
+        "aspects": []
+    },
+    {
+        "ID": "1004",
+        "sentence": "Definitely worth the trip to Battery Park City!",
+        "aspects": []
+    },
+    {
+        "ID": "930",
+        "sentence": "Try the Times Square cocktail -- ginger lemonade with vodka (also available without vodka.)",
+        "aspects": [
+            {
+                "from": "8",
+                "to": "29",
+                "target": "Times Square cocktail",
+                "polarity": "positive"
+            },
+            {
+                "from": "33",
+                "to": "59",
+                "target": "ginger lemonade with vodka",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1867",
+        "sentence": "The first 2 courses were very good, but the chocolate sampler was too rich for me and the dessert wine far too sweet.",
+        "aspects": [
+            {
+                "from": "12",
+                "to": "19",
+                "target": "courses",
+                "polarity": "positive"
+            },
+            {
+                "from": "44",
+                "to": "61",
+                "target": "chocolate sampler",
+                "polarity": "negative"
+            },
+            {
+                "from": "90",
+                "to": "102",
+                "target": "dessert wine",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "877",
+        "sentence": "So some of the reviews here are accurate about the crowd and noise.",
+        "aspects": [
+            {
+                "from": "51",
+                "to": "56",
+                "target": "crowd",
+                "polarity": "negative"
+            },
+            {
+                "from": "61",
+                "to": "66",
+                "target": "noise",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "2386",
+        "sentence": "The dim sum servings here are a bit larger than I'm used to.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "20",
+                "target": "dim sum servings",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "1819",
+        "sentence": "Ambiance- relaxed and stylish.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "8",
+                "target": "Ambiance",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "610",
+        "sentence": "We had a great tiem watching the shows and characters and ar food was just what we were looking for.",
+        "aspects": [
+            {
+                "from": "33",
+                "to": "38",
+                "target": "shows",
+                "polarity": "positive"
+            },
+            {
+                "from": "43",
+                "to": "53",
+                "target": "characters",
+                "polarity": "positive"
+            },
+            {
+                "from": "61",
+                "to": "65",
+                "target": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "858",
+        "sentence": "Service is highly refined: our seating was delayed 35 minutes past our reservation and the maitre d' apologized and regularly kept us apprised of progress.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "7",
+                "target": "Service",
+                "polarity": "positive"
+            },
+            {
+                "from": "71",
+                "to": "82",
+                "target": "reservation",
+                "polarity": "negative"
+            },
+            {
+                "from": "91",
+                "to": "97",
+                "target": "maitre",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2734",
+        "sentence": "The Italian food has flavor (that can be sort of surprising on the UES), and the service turns from a nightmare to attentive,they sort of remind me of the NY Yankees of the late 90's, no matter how bad it look, you knew that there was a rally just around the corner...",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "16",
+                "target": "Italian food",
+                "polarity": "positive"
+            },
+            {
+                "from": "81",
+                "to": "88",
+                "target": "service",
+                "polarity": "conflict"
+            }
+        ]
+    },
+    {
+        "ID": "587",
+        "sentence": "for Meetball Night.",
+        "aspects": []
+    },
+    {
+        "ID": "1166",
+        "sentence": "I am completely hooked on this place, it is ridiculous.",
+        "aspects": []
+    },
+    {
+        "ID": "1597",
+        "sentence": "Quality ingredients preparation all around, and a very fair price for NYC.",
+        "aspects": [
+            {
+                "from": "8",
+                "to": "19",
+                "target": "ingredients",
+                "polarity": "positive"
+            },
+            {
+                "from": "60",
+                "to": "65",
+                "target": "price",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "998",
+        "sentence": "The restaurant looks out over beautiful green lawns to the Hudson River and the Statue of Liberty.",
+        "aspects": [
+            {
+                "from": "46",
+                "to": "51",
+                "target": "lawns",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1339",
+        "sentence": "Went for a late weekday lunch.",
+        "aspects": [
+            {
+                "from": "24",
+                "to": "29",
+                "target": "lunch",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "2213",
+        "sentence": "What a great place.",
+        "aspects": []
+    },
+    {
+        "ID": "3188",
+        "sentence": "Went there for an office lunch.",
+        "aspects": [
+            {
+                "from": "18",
+                "to": "30",
+                "target": "office lunch",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "765",
+        "sentence": "Sushi wasn't anything spectacular for the price.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "5",
+                "target": "Sushi",
+                "polarity": "neutral"
+            },
+            {
+                "from": "42",
+                "to": "47",
+                "target": "price",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "3237",
+        "sentence": "After reading the posts, I was always skeptical to go to The Minnow, despite living in Park Slope.",
+        "aspects": []
+    },
+    {
+        "ID": "2768",
+        "sentence": "Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.",
+        "aspects": [
+            {
+                "from": "13",
+                "to": "19",
+                "target": "tables",
+                "polarity": "negative"
+            },
+            {
+                "from": "49",
+                "to": "61",
+                "target": "candle-light",
+                "polarity": "positive"
+            },
+            {
+                "from": "63",
+                "to": "75",
+                "target": "food-quality",
+                "polarity": "positive"
+            },
+            {
+                "from": "80",
+                "to": "87",
+                "target": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "14",
+        "sentence": "The whole set up is truly unprofessional and I wish Cafe Noir would get some good staff, because despite the current one this is a great place.",
+        "aspects": [
+            {
+                "from": "82",
+                "to": "87",
+                "target": "staff",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "3636",
+        "sentence": "We were on our way back to NJ, and since I am in NY, we figured why not grab some food?",
+        "aspects": [
+            {
+                "from": "82",
+                "to": "86",
+                "target": "food",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "3046",
+        "sentence": "Judging from previous posts this used to be a good place, but not any longer.",
+        "aspects": []
+    },
+    {
+        "ID": "1115",
+        "sentence": "Please try the Filet Mignon, its just the most tender piece ever.",
+        "aspects": [
+            {
+                "from": "15",
+                "to": "27",
+                "target": "Filet Mignon",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "3690",
+        "sentence": "Will have to return to try the chocolate!",
+        "aspects": [
+            {
+                "from": "31",
+                "to": "40",
+                "target": "chocolate",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1711",
+        "sentence": "Diner food at bistro prices is a bummer....",
+        "aspects": [
+            {
+                "from": "6",
+                "to": "10",
+                "target": "food",
+                "polarity": "negative"
+            },
+            {
+                "from": "21",
+                "to": "27",
+                "target": "prices",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1988",
+        "sentence": "For $600 ( the most we have ever paid) not even waving a magic wand will ever get us back for a repeat performance.",
+        "aspects": []
+    },
+    {
+        "ID": "1317",
+        "sentence": "But for whatever reason, prices are about twice as high.",
+        "aspects": [
+            {
+                "from": "25",
+                "to": "31",
+                "target": "prices",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1425",
+        "sentence": "But people from Sichuan will die for it)  - Chongqing Hot Pot, chongqing was the biggest city of Sichuan, now became an independent province.",
+        "aspects": []
+    },
+    {
+        "ID": "258",
+        "sentence": "I go and eat out at many different restaurants and this is one place you have go and try.",
+        "aspects": []
+    },
+    {
+        "ID": "3531",
+        "sentence": "My friend's food was also the complete opposite of what it's supposed to taste like (aND look like).",
+        "aspects": [
+            {
+                "from": "12",
+                "to": "16",
+                "target": "food",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1085",
+        "sentence": "Trust me, it will be great, and all of it will be devoured in no time.",
+        "aspects": []
+    },
+    {
+        "ID": "2234",
+        "sentence": "Don't go.",
+        "aspects": []
+    },
+    {
+        "ID": "3082",
+        "sentence": "If you were there when it first opened, give this restaurant a second chance.",
+        "aspects": []
+    },
+    {
+        "ID": "2240",
+        "sentence": "The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "11",
+                "target": "service",
+                "polarity": "positive"
+            },
+            {
+                "from": "42",
+                "to": "46",
+                "target": "food",
+                "polarity": "positive"
+            },
+            {
+                "from": "84",
+                "to": "93",
+                "target": "hot sauce",
+                "polarity": "positive"
+            },
+            {
+                "from": "109",
+                "to": "114",
+                "target": "meals",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "1310",
+        "sentence": "I'll keep this short.",
+        "aspects": []
+    },
+    {
+        "ID": "778",
+        "sentence": "A++   The service was good to excellent along with the attitude.",
+        "aspects": [
+            {
+                "from": "10",
+                "to": "17",
+                "target": "service",
+                "polarity": "positive"
+            },
+            {
+                "from": "55",
+                "to": "63",
+                "target": "attitude",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "3013",
+        "sentence": "We were treated with attitude ever since the moment we stepped into the restaurant!",
+        "aspects": []
+    },
+    {
+        "ID": "3471",
+        "sentence": "I've been to Joya twice and I will never go again.",
+        "aspects": []
+    },
+    {
+        "ID": "925",
+        "sentence": "The service was attentive.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "11",
+                "target": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1428",
+        "sentence": "I went there for lunch and it was not as good as I expected from the reviews I read.",
+        "aspects": [
+            {
+                "from": "17",
+                "to": "22",
+                "target": "lunch",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "1691",
+        "sentence": "Good food.",
+        "aspects": [
+            {
+                "from": "5",
+                "to": "9",
+                "target": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "102",
+        "sentence": "Emilio, the owner, is often sitting in the front table greeting guests as they come and go.",
+        "aspects": [
+            {
+                "from": "12",
+                "to": "17",
+                "target": "owner",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1647",
+        "sentence": "Everything is delicious, though, my gf and I come here once a week sometimes- you will get addicted!",
+        "aspects": []
+    },
+    {
+        "ID": "2908",
+        "sentence": "i would recommend reservations on weekends though.",
+        "aspects": [
+            {
+                "from": "18",
+                "to": "30",
+                "target": "reservations",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "3297",
+        "sentence": "If you don't mind all that noise then go to the Chart House.",
+        "aspects": []
+    },
+    {
+        "ID": "3246",
+        "sentence": ".the best I've found outside of the Chinatown masters.",
+        "aspects": []
+    },
+    {
+        "ID": "867",
+        "sentence": "I loved it and would go again.",
+        "aspects": []
+    },
+    {
+        "ID": "3147",
+        "sentence": "I was very disappointed with this restaurant.",
+        "aspects": []
+    },
+    {
+        "ID": "2907",
+        "sentence": "service is friendly, and never had a problem walking in and getting a table.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "7",
+                "target": "service",
+                "polarity": "positive"
+            },
+            {
+                "from": "60",
+                "to": "75",
+                "target": "getting a table",
+                "polarity": "positive"
+            }
+        ]
+    }
+]

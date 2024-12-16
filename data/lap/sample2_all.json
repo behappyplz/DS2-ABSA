@@ -1,0 +1,624 @@
+﻿[
+    {
+        "ID": "1219",
+        "sentence": "If you buy, pray you dont have major prolems.",
+        "aspects": []
+    },
+    {
+        "ID": "2871",
+        "sentence": "I always have used a tower home PC and jumped to the laptop and have been very satisfied with its performance.",
+        "aspects": [
+            {
+                "from": "98",
+                "to": "109",
+                "target": "performance",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2130",
+        "sentence": "I also liked the glass screen.",
+        "aspects": [
+            {
+                "from": "17",
+                "to": "29",
+                "target": "glass screen",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1668",
+        "sentence": "The only bad part is the size/weight.",
+        "aspects": [
+            {
+                "from": "25",
+                "to": "29",
+                "target": "size",
+                "polarity": "negative"
+            },
+            {
+                "from": "30",
+                "to": "36",
+                "target": "weight",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "2920",
+        "sentence": "It is a cheap throw together.",
+        "aspects": []
+    },
+    {
+        "ID": "2588",
+        "sentence": "Its Office compatible, but the features and its functioning is all new again so you might as well save the money and just learn the pre installed mac programs.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "10",
+                "target": "Office",
+                "polarity": "positive"
+            },
+            {
+                "from": "31",
+                "to": "39",
+                "target": "features",
+                "polarity": "neutral"
+            },
+            {
+                "from": "48",
+                "to": "59",
+                "target": "functioning",
+                "polarity": "neutral"
+            },
+            {
+                "from": "150",
+                "to": "158",
+                "target": "programs",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "3012",
+        "sentence": "This is my second MacBook.",
+        "aspects": []
+    },
+    {
+        "ID": "3024",
+        "sentence": "My real problem with it? The statement of 7 hour battery life is not just mere exaggeration -- it's a lie.",
+        "aspects": [
+            {
+                "from": "49",
+                "to": "61",
+                "target": "battery life",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "108",
+        "sentence": "It started out by randomly ceasing to charge when it was plugged in (mousing over the battery icon would read, for example, \"74%, plugged in, not charging\"), requiring me to unplug it and plug it back in several times to get it to charge.",
+        "aspects": [
+            {
+                "from": "38",
+                "to": "44",
+                "target": "charge",
+                "polarity": "negative"
+            },
+            {
+                "from": "146",
+                "to": "154",
+                "target": "charging",
+                "polarity": "negative"
+            },
+            {
+                "from": "231",
+                "to": "237",
+                "target": "charge",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "676",
+        "sentence": "super fast processor and really nice graphics card..",
+        "aspects": [
+            {
+                "from": "11",
+                "to": "20",
+                "target": "processor",
+                "polarity": "positive"
+            },
+            {
+                "from": "37",
+                "to": "50",
+                "target": "graphics card",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "917",
+        "sentence": "One night I turned the freaking thing off after using it, the next day I turn it on, no GUI, screen all dark, power light steady, hard drive light steady and not flashing as it usually does.",
+        "aspects": [
+            {
+                "from": "88",
+                "to": "91",
+                "target": "GUI",
+                "polarity": "negative"
+            },
+            {
+                "from": "93",
+                "to": "99",
+                "target": "screen",
+                "polarity": "negative"
+            },
+            {
+                "from": "110",
+                "to": "121",
+                "target": "power light",
+                "polarity": "neutral"
+            },
+            {
+                "from": "130",
+                "to": "146",
+                "target": "hard drive light",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1043",
+        "sentence": "Support has been lackluster and now I just want a refund.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "7",
+                "target": "Support",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "2447",
+        "sentence": "Its fast, has High definition quality in the videos.",
+        "aspects": [
+            {
+                "from": "14",
+                "to": "37",
+                "target": "High definition quality",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1086",
+        "sentence": "EITHER THE COMPUTER IS TOO SLOW TO DETECT THE KEYS TYPED (THIS IS UNLIKELY AS I AM A SLOW TYPIST) OR THE KEYBOARD SIMPLY DOES NOT DETECT THE KEYS BEING TYPED.",
+        "aspects": [
+            {
+                "from": "46",
+                "to": "50",
+                "target": "KEYS",
+                "polarity": "negative"
+            },
+            {
+                "from": "105",
+                "to": "113",
+                "target": "KEYBOARD",
+                "polarity": "negative"
+            },
+            {
+                "from": "141",
+                "to": "145",
+                "target": "KEYS",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1595",
+        "sentence": "Its pretty fast and does not have hiccups while I am using it for web browsing, uploading photos, watching movies (720p) on occasion and creating presentations.",
+        "aspects": [
+            {
+                "from": "66",
+                "to": "78",
+                "target": "web browsing",
+                "polarity": "positive"
+            },
+            {
+                "from": "80",
+                "to": "96",
+                "target": "uploading photos",
+                "polarity": "positive"
+            },
+            {
+                "from": "98",
+                "to": "113",
+                "target": "watching movies",
+                "polarity": "positive"
+            },
+            {
+                "from": "137",
+                "to": "159",
+                "target": "creating presentations",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "3058",
+        "sentence": "they improved nothing else such as Resolution, appearance, cooling system, graphics card, etc.",
+        "aspects": [
+            {
+                "from": "35",
+                "to": "45",
+                "target": "Resolution",
+                "polarity": "negative"
+            },
+            {
+                "from": "47",
+                "to": "57",
+                "target": "appearance",
+                "polarity": "negative"
+            },
+            {
+                "from": "59",
+                "to": "73",
+                "target": "cooling system",
+                "polarity": "negative"
+            },
+            {
+                "from": "75",
+                "to": "88",
+                "target": "graphics card",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "2268",
+        "sentence": "without a big ol' clunky machine in my backpack, I feel like I can do programming homework anywhere.",
+        "aspects": []
+    },
+    {
+        "ID": "2591",
+        "sentence": "This was purchased for my daughter and I was pleasantly surprised.",
+        "aspects": []
+    },
+    {
+        "ID": "603",
+        "sentence": "It's face and depanable.",
+        "aspects": []
+    },
+    {
+        "ID": "3035",
+        "sentence": "It works really well.",
+        "aspects": [
+            {
+                "from": "3",
+                "to": "8",
+                "target": "works",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1821",
+        "sentence": "I have had my MacBook for almost 6 months and can honestly say that I will NEVER buy another computer if it is not a Mac.",
+        "aspects": []
+    },
+    {
+        "ID": "2799",
+        "sentence": "I shopped around before buying.",
+        "aspects": []
+    },
+    {
+        "ID": "1378",
+        "sentence": "Windows also shuts the computer down for no reason without warning.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "7",
+                "target": "Windows",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "2434",
+        "sentence": "It wouldn't fit in most 17-inch bags.",
+        "aspects": []
+    },
+    {
+        "ID": "622",
+        "sentence": "-Called MacHouse Amsterdam to ask for a temporary replacement, no answer.",
+        "aspects": []
+    },
+    {
+        "ID": "384",
+        "sentence": "It is sleek, smooth, and lightweight.",
+        "aspects": []
+    },
+    {
+        "ID": "2508",
+        "sentence": "PC users use the Powerpoint program for slide-show presentation and Mac users utilize Keynote.",
+        "aspects": [
+            {
+                "from": "17",
+                "to": "35",
+                "target": "Powerpoint program",
+                "polarity": "neutral"
+            },
+            {
+                "from": "86",
+                "to": "93",
+                "target": "Keynote",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "2412",
+        "sentence": "It took so much time.",
+        "aspects": []
+    },
+    {
+        "ID": "100",
+        "sentence": "I had of course bought a 3 year warranty, so I sent it in to be replaced and (almost 2 months later) the dv4 is what the sent me as a replacement.",
+        "aspects": [
+            {
+                "from": "25",
+                "to": "40",
+                "target": "3 year warranty",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "929",
+        "sentence": "The love part of my relationship with this laptop doesn't take very long.",
+        "aspects": []
+    },
+    {
+        "ID": "2202",
+        "sentence": "Pairing it with an iPhone is a pure pleasure - talk about painless syncing - used to take me forever - now it's a snap.",
+        "aspects": [
+            {
+                "from": "67",
+                "to": "74",
+                "target": "syncing",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1341",
+        "sentence": "I am just ONE of the million customers.",
+        "aspects": []
+    },
+    {
+        "ID": "1706",
+        "sentence": "My main reason to convert was the imovie program.",
+        "aspects": [
+            {
+                "from": "34",
+                "to": "48",
+                "target": "imovie program",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2501",
+        "sentence": "The capabilities using that program alone made me want a Mac.",
+        "aspects": [
+            {
+                "from": "28",
+                "to": "35",
+                "target": "program",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1384",
+        "sentence": "I took it back to the store and exchanged it for another one.",
+        "aspects": []
+    },
+    {
+        "ID": "2974",
+        "sentence": "It runs very quiet too which is a plus.",
+        "aspects": [
+            {
+                "from": "3",
+                "to": "7",
+                "target": "runs",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "2551",
+        "sentence": "Apple continues to shine and provide a much more enjoyable computer experience!",
+        "aspects": []
+    },
+    {
+        "ID": "1339",
+        "sentence": "You just lose a customer.",
+        "aspects": []
+    },
+    {
+        "ID": "1733",
+        "sentence": "Games being the main issue.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "5",
+                "target": "Games",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "988",
+        "sentence": "Windows Vista makes this computer almost unusable for online service.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "13",
+                "target": "Windows Vista",
+                "polarity": "negative"
+            },
+            {
+                "from": "54",
+                "to": "68",
+                "target": "online service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "2004",
+        "sentence": "If you really want a bang-up system and don't need to run Windows applications, go with an Apple;",
+        "aspects": [
+            {
+                "from": "29",
+                "to": "35",
+                "target": "system",
+                "polarity": "positive"
+            },
+            {
+                "from": "58",
+                "to": "78",
+                "target": "Windows applications",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "1388",
+        "sentence": "Don't waste their money, save it and but a mac.",
+        "aspects": []
+    },
+    {
+        "ID": "142",
+        "sentence": "I never had this kind of quality issue with Dell (not to say Dell is that great), not with a brand new laptop.",
+        "aspects": [
+            {
+                "from": "25",
+                "to": "32",
+                "target": "quality",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "2311",
+        "sentence": "The battery holds up well, it's built very solidly, and runs fast.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "11",
+                "target": "battery",
+                "polarity": "positive"
+            },
+            {
+                "from": "32",
+                "to": "37",
+                "target": "built",
+                "polarity": "positive"
+            },
+            {
+                "from": "56",
+                "to": "60",
+                "target": "runs",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "974",
+        "sentence": "It quit working within a weeks time.",
+        "aspects": []
+    },
+    {
+        "ID": "599",
+        "sentence": "It absolutely is more expensive than most PC laptops, but the ease of use, security, and minimal problems that have arisen make it well worth the pricetag.",
+        "aspects": [
+            {
+                "from": "70",
+                "to": "73",
+                "target": "use",
+                "polarity": "positive"
+            },
+            {
+                "from": "75",
+                "to": "83",
+                "target": "security",
+                "polarity": "positive"
+            },
+            {
+                "from": "146",
+                "to": "154",
+                "target": "pricetag",
+                "polarity": "conflict"
+            }
+        ]
+    },
+    {
+        "ID": "2487",
+        "sentence": "It is fast booting up , shutting down, and connection with the internet.",
+        "aspects": [
+            {
+                "from": "11",
+                "to": "21",
+                "target": "booting up",
+                "polarity": "positive"
+            },
+            {
+                "from": "24",
+                "to": "37",
+                "target": "shutting down",
+                "polarity": "positive"
+            },
+            {
+                "from": "43",
+                "to": "71",
+                "target": "connection with the internet",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1895",
+        "sentence": "Overall I feel this netbook was poor quality, had poor performance, although it did have great battery life when it did work.",
+        "aspects": [
+            {
+                "from": "37",
+                "to": "44",
+                "target": "quality",
+                "polarity": "negative"
+            },
+            {
+                "from": "55",
+                "to": "66",
+                "target": "performance",
+                "polarity": "negative"
+            },
+            {
+                "from": "95",
+                "to": "107",
+                "target": "battery life",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "876",
+        "sentence": "After 3 pleasant weeks of use, the laptop just died.",
+        "aspects": []
+    }
+]

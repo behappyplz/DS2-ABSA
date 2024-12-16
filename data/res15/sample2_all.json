@@ -1,0 +1,222 @@
+﻿[
+    {
+        "ID": "1718513:0",
+        "sentence": "We went here for lunch a couple of weeks ago on a Saturday, and I was thoroughly impressed with the food.",
+        "aspects": [
+            {
+                "from": "100",
+                "to": "104",
+                "target": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1702257:3",
+        "sentence": "Friendly staff that actually lets you enjoy your meal and the company you're with.",
+        "aspects": [
+            {
+                "from": "9",
+                "to": "14",
+                "target": "staff",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1538149:5",
+        "sentence": "Very good wine choices.",
+        "aspects": [
+            {
+                "from": "10",
+                "to": "22",
+                "target": "wine choices",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "875139:6",
+        "sentence": "The pasta penne was pretty extra buttery, creamy which means a big task to diggest.. tasty at first but i would say that i was full with a slice of pizza and 7 to count, penne...got a little moody afterwards cause was stuffed...lol",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "15",
+                "target": "pasta penne",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1205520:2",
+        "sentence": "Make sure you have the Spicy Scallop roll.. .",
+        "aspects": [
+            {
+                "from": "23",
+                "to": "41",
+                "target": "Spicy Scallop roll",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1561259:2",
+        "sentence": "The hostess and the waitress were incredibly rude and did everything they could to rush us out.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "11",
+                "target": "hostess",
+                "polarity": "negative"
+            },
+            {
+                "from": "20",
+                "to": "28",
+                "target": "waitress",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1726001:1",
+        "sentence": "The freshest, best variety, and the fastest delivery.",
+        "aspects": [
+            {
+                "from": "44",
+                "to": "52",
+                "target": "delivery",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1661043:5",
+        "sentence": "Service is average.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "7",
+                "target": "Service",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "ID": "1380450:2",
+        "sentence": "Service was also horrible and the ambience is not that great.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "7",
+                "target": "Service",
+                "polarity": "negative"
+            },
+            {
+                "from": "34",
+                "to": "42",
+                "target": "ambience",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "1390357:6",
+        "sentence": "Big thumbs up!",
+        "aspects": []
+    },
+    {
+        "ID": "1730014:0",
+        "sentence": "I went here with a friend on a whim, we went someplace else first and couldn't get a table.",
+        "aspects": []
+    },
+    {
+        "ID": "455623:3",
+        "sentence": "It hits the spot every time",
+        "aspects": []
+    },
+    {
+        "ID": "1496205:3",
+        "sentence": "Try green curry with vegetables.",
+        "aspects": [
+            {
+                "from": "4",
+                "to": "31",
+                "target": "green curry with vegetables",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1662726:1",
+        "sentence": "A gentleman, maybe the manager, came to our table, and without so much as a smile or greeting asked for our order.",
+        "aspects": [
+            {
+                "from": "2",
+                "to": "11",
+                "target": "gentleman",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "ID": "757762:3",
+        "sentence": "In fact, it appears he is going to go postal at any moment.",
+        "aspects": []
+    },
+    {
+        "ID": "1303888:3",
+        "sentence": "(that is A MUST, but not every restaurant can do...)",
+        "aspects": []
+    },
+    {
+        "ID": "1632445:0",
+        "sentence": "Mermaid Inn is an overall good restaurant with really good seafood.",
+        "aspects": [
+            {
+                "from": "0",
+                "to": "11",
+                "target": "Mermaid Inn",
+                "polarity": "positive"
+            },
+            {
+                "from": "59",
+                "to": "66",
+                "target": "seafood",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "426805:2",
+        "sentence": "Definitely worth the trip to Battery Park City!",
+        "aspects": []
+    },
+    {
+        "ID": "717570:4",
+        "sentence": "You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert.",
+        "aspects": [
+            {
+                "from": "18",
+                "to": "34",
+                "target": "crabmeat lasagna",
+                "polarity": "positive"
+            },
+            {
+                "from": "70",
+                "to": "93",
+                "target": "chocolate bread pudding",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "ID": "1352948:2",
+        "sentence": "You are not eating haut cuisine with subtle hints of whatever but: Cassuolet, Steake Fritte, Tripe Stew, etc; simple stuff.",
+        "aspects": []
+    },
+    {
+        "ID": "1318537:3",
+        "sentence": "keep up the good work.",
+        "aspects": []
+    }
+]
